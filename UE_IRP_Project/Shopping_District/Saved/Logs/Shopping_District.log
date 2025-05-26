@@ -4338,3 +4338,519 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.26-12.53.54:613][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 8.17 sec)
 [2025.05.26-12.53.54:614][227]AssetCheck: New page: Asset Save: Unoptimised_Shopping
 [2025.05.26-12.53.54:614][227]LogContentValidation: Display: Validating /Script/Engine.World /Game/Unoptimised_Shopping.Unoptimised_Shopping
+[2025.05.26-12.54.33:009][ 12]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Unoptimised/Materials/Material__380.Material__380
+[2025.05.26-12.54.33:024][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-12.54.33:024][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-12.54.33:228][ 12]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.26-12.54.33:228][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.26-12.54.33:228][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.26-12.54.33:228][ 12]MaterialEditorStats: Shader Count: 0
+[2025.05.26-12.54.33:244][ 12]LogSlate: Took 0.004534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.26-12.54.33:250][ 12]LogViewport: Scene viewport resized to 439x383, mode Windowed.
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: ================================================
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Total job queries 898, among them cache hits 882 (98.22%)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: RAM used: 401.03 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Average time worker was idle: 73.47 s
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.64 s
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 0.73
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Shader code size: average 42.711 KiB, min 31.809 KiB, max 61.465 KiB
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.37 s
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Average processing rate: 11.68 jobs/sec
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Total thread time: 3.465 s
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Total thread preprocess time: 0.395 s
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Percentage time preprocessing: 11.40%
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.90% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.67% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.38% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.26% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.06% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.05.26-12.54.33:314][ 13]LogShaderCompilers: Display: ================================================
+[2025.05.26-12.54.33:335][ 14]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.26-12.54.33:335][ 14]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.26-12.54.33:335][ 14]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.26-12.54.33:335][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.26-12.54.33:335][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.26-12.54.33:335][ 14]MaterialEditorStats: Shader Count: 4
+[2025.05.26-12.54.50:102][242]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-12.54.50:189][242]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-12.54.50:200][243]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-12.54.57:558][810]LogContentBrowser: Attempting asset rename: NewFolder -> BaseColour
+[2025.05.26-12.54.57:559][810]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-12.55.01:601][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-12.55.01:657][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__387
+[2025.05.26-12.55.01:657][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__38776354EBC494D1EC00829CBADA32F6449.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__387.uasset'
+[2025.05.26-12.55.01:658][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__389
+[2025.05.26-12.55.01:658][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__389BF9445D64AC3FDB87163E19828F4EB30.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__389.uasset'
+[2025.05.26-12.55.01:659][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__390
+[2025.05.26-12.55.01:659][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3904D2819B4466370B770F72284764BE131.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__390.uasset'
+[2025.05.26-12.55.01:660][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__382
+[2025.05.26-12.55.01:660][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__382B1E14FE04233964AC5A20C89ECEA60A0.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__382.uasset'
+[2025.05.26-12.55.01:661][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__391
+[2025.05.26-12.55.01:661][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__391D4DAF9204CF6371054804DBEB851696D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__391.uasset'
+[2025.05.26-12.55.01:662][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__395
+[2025.05.26-12.55.01:662][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__39548B98A394A88AD62AEE1729880BF0A3B.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__395.uasset'
+[2025.05.26-12.55.01:663][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__396
+[2025.05.26-12.55.01:663][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__396547E254C4032F4A3926889A1DA1E3B99.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__396.uasset'
+[2025.05.26-12.55.01:664][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__392
+[2025.05.26-12.55.01:664][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3926E5F209D4E21A91A686467B8DEE166E5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__392.uasset'
+[2025.05.26-12.55.01:665][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__404
+[2025.05.26-12.55.01:665][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__4046405B6AB433C9AE2644A39BB258782CF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__404.uasset'
+[2025.05.26-12.55.01:665][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__383
+[2025.05.26-12.55.01:666][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3831F174D8847ED76432C4E80B9B98A38C1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__383.uasset'
+[2025.05.26-12.55.01:666][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__380
+[2025.05.26-12.55.01:666][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3809BB9C35F402B1A3937406CA4DF72F440.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__380.uasset'
+[2025.05.26-12.55.01:667][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__393
+[2025.05.26-12.55.01:667][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__393A394D6F54AC80066F1EEE28AB209DE37.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__393.uasset'
+[2025.05.26-12.55.01:668][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__386
+[2025.05.26-12.55.01:668][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__386FFD57AA44830B8B517CA3B9F7624C82B.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__386.uasset'
+[2025.05.26-12.55.01:669][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__402
+[2025.05.26-12.55.01:669][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__4029F12AAC849995A81C3A12BB2D28922A6.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__402.uasset'
+[2025.05.26-12.55.01:670][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__394
+[2025.05.26-12.55.01:670][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__394E53CA3F346236E33A7E1C680B2C31F77.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__394.uasset'
+[2025.05.26-12.55.01:671][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__403
+[2025.05.26-12.55.01:671][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__403DD3376664143A21D5DC13D8CCB1102BA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__403.uasset'
+[2025.05.26-12.55.01:672][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__405
+[2025.05.26-12.55.01:672][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__4051AEEE955477FED57F3F56794238463B1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__405.uasset'
+[2025.05.26-12.55.01:672][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__397
+[2025.05.26-12.55.01:673][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__397F3867E844371C0D6E1AF91B33127BB1C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__397.uasset'
+[2025.05.26-12.55.01:673][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__381
+[2025.05.26-12.55.01:674][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3816DDE0ED14699BBF54A71AB9275D543B5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__381.uasset'
+[2025.05.26-12.55.01:674][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__384
+[2025.05.26-12.55.01:674][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__384434810254B590138E469BCA9A05EB1F5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__384.uasset'
+[2025.05.26-12.55.01:675][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__385
+[2025.05.26-12.55.01:675][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3854CEB721848B003E2398E01B966FFF963.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__385.uasset'
+[2025.05.26-12.55.01:676][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__399
+[2025.05.26-12.55.01:676][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__39925CFF22547FE9040EA0F27A7A464308A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__399.uasset'
+[2025.05.26-12.55.01:677][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__401
+[2025.05.26-12.55.01:677][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__4013F3CE7054F55F85849EF4F807E221FD6.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__401.uasset'
+[2025.05.26-12.55.01:678][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__398
+[2025.05.26-12.55.01:678][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__39818A91D924D3E2D2C01F8F9A4C0A7F1BA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__398.uasset'
+[2025.05.26-12.55.01:679][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__400
+[2025.05.26-12.55.01:679][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__400860D71384B8C1477CCBF95B1F7F5110E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__400.uasset'
+[2025.05.26-12.55.01:681][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Materials/Material__388
+[2025.05.26-12.55.01:681][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3882872030E4CCB839019DD55862BE78AFA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Materials/Material__388.uasset'
+[2025.05.26-12.55.01:692][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/WindowObjects_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:692][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WindowObjects_low_DefaultMateria466F2C7641E1499643E446B5E29269CD.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/WindowObjects_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:701][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/ApartmentWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:701][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ApartmentWindow_low_DefaultMaterFF8959C64EE00091E5FFCFA4D7E2F795.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/ApartmentWindow_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:717][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/Columns_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:717][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Columns_low_DefaultMaterial_Base7814F70E460BE8AC4DF224A505B53881.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/Columns_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:729][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/DarkMetallic_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:729][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DarkMetallic_low_DefaultMaterialADBDD2FC44C55952D04DF6BEA274EF21.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/DarkMetallic_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:743][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/Doors_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:743][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Doors_low_DefaultMaterial_BaseCoAC71D270450B3202F75273A54F5FBD82.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/Doors_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:752][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/DrainPipe_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:753][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DrainPipe_low_DefaultMaterial_Ba70DDF39A41F5DE5AA131BE9DF1B0B88F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/DrainPipe_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:792][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/DutchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:792][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchBuilding_low_DefaultMateria23E6D7F1404A8F91BB560794021D5FFA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/DutchBuilding_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:831][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/DutchShop_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:831][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchShop_low_DefaultMaterial_Ba700FE6E941CB3AE1C8B674B5B9FD558B.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/DutchShop_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:842][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/Flag_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:842][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Flag_low_DefaultMaterial_BaseColFC418CE341EE74FE3B15C4997A7C391C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/Flag_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:853][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/FrenchBalcony_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:853][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBalcony_low_DefaultMateriaC57012BA433028DAFDF010993DBE0934.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/FrenchBalcony_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:890][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/FrenchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:890][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateriCFD9BC3C419912F040B4FCA2DF5060B6.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/FrenchBuilding_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:900][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/FrenchTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:900][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchTopper_low_DefaultMaterial7F3D9B004C28042C00011B911075D8EE.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/FrenchTopper_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:912][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/FrenchWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:912][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchWindow_low_DefaultMaterialE79D03A646EFC1E070FB249B693C2576.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/FrenchWindow_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:944][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/GerFreShops_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:944][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GerFreShops_low_DefaultMaterial_8896EBA64E901F528CDC9985749C4272.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/GerFreShops_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:954][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/GermanColumn_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:954][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanColumn_low_DefaultMaterial76A3EAF64A238F731EDD92BCAC5D5C06.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/GermanColumn_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.01:964][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/GermanEdge_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.01:964][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanEdge_low_DefaultMaterial_B5CD6AD0E4DCE28824FA07C92F1ED2CF3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/GermanEdge_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:001][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/GermanRoof_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:001][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoof_low_DefaultMaterial_BBB11DF5E401DCF5788E451ACA55BB0F1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/GermanRoof_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:037][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/GermanRoom_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:037][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoom_low_DefaultMaterial_B48C0EFA04FEDCFD1291EA88730C4C84E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/GermanRoom_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:046][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/GermanTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:046][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanTopper_low_DefaultMaterial79DEF70E4DAEB826A68A7A8BEF2FAF76.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/GermanTopper_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:058][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/PublicFurniture_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:058][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/PublicFurniture_low_DefaultMaterC00738CD455B4C84D9F7E29C73BD6BA6.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/PublicFurniture_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:096][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/Road_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:096][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Road_low_DefaultMaterial_BaseCol53FA206F4F12292A243E1D94269AE3C2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/Road_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:146][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/SeaBoard_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:146][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/SeaBoard_low_DefaultMaterial_Bas653A62F14FF541AD6276AC932F508945.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/SeaBoard_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:155][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/ShopWindows_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:155][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ShopWindows_low_DefaultMaterial_35B888EE444F9D43E08F2B81CBEE57C8.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/ShopWindows_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:168][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/TrafficLight_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:168][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrafficLight_low_DefaultMaterialAA3A16824093012E5649DDA8EB85EAA3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/TrafficLight_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:201][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/TramStop_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:201][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TramStop_low_DefaultMaterial_Bas13F10ECA42063954B41EA091A410C142.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/TramStop_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:214][154]LogSavePackage: Moving output files for package: /Game/Unoptimised/Textures/BaseColour/WallAssets_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:214][154]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WallAssets_low_DefaultMaterial_B2D9EFAED4CECB42C7CD59A947134D5DA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised/Textures/BaseColour/WallAssets_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-12.55.02:220][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 618 ms (total: 8.79 sec)
+[2025.05.26-12.55.02:297][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.26-12.55.02:306][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-12.55.02:312][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.05.26-12.55.02:328][154]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__387.Material__387
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__389.Material__389
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__390.Material__390
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__382.Material__382
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__391.Material__391
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__395.Material__395
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__396.Material__396
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__392.Material__392
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__404.Material__404
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__383.Material__383
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__380.Material__380
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__393.Material__393
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__386.Material__386
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__402.Material__402
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__394.Material__394
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__403.Material__403
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__405.Material__405
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__397.Material__397
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__381.Material__381
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__384.Material__384
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__385.Material__385
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__399.Material__399
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__401.Material__401
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__398.Material__398
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__400.Material__400
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Unoptimised/Materials/Material__388.Material__388
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/WindowObjects_low_DefaultMaterial_BaseColor.WindowObjects_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/ApartmentWindow_low_DefaultMaterial_BaseColor.ApartmentWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/Columns_low_DefaultMaterial_BaseColor.Columns_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/DarkMetallic_low_DefaultMaterial_BaseColor.DarkMetallic_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/Doors_low_DefaultMaterial_BaseColor.Doors_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/DrainPipe_low_DefaultMaterial_BaseColor.DrainPipe_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/DutchBuilding_low_DefaultMaterial_BaseColor.DutchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/DutchShop_low_DefaultMaterial_BaseColor.DutchShop_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/Flag_low_DefaultMaterial_BaseColor.Flag_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/FrenchBalcony_low_DefaultMaterial_BaseColor.FrenchBalcony_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/FrenchBuilding_low_DefaultMaterial_BaseColor.FrenchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/FrenchTopper_low_DefaultMaterial_BaseColor.FrenchTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/FrenchWindow_low_DefaultMaterial_BaseColor.FrenchWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/GerFreShops_low_DefaultMaterial_BaseColor.GerFreShops_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/GermanColumn_low_DefaultMaterial_BaseColor.GermanColumn_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/GermanEdge_low_DefaultMaterial_BaseColor.GermanEdge_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/GermanRoof_low_DefaultMaterial_BaseColor.GermanRoof_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/GermanRoom_low_DefaultMaterial_BaseColor.GermanRoom_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/GermanTopper_low_DefaultMaterial_BaseColor.GermanTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/PublicFurniture_low_DefaultMaterial_BaseColor.PublicFurniture_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/Road_low_DefaultMaterial_BaseColor.Road_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/SeaBoard_low_DefaultMaterial_BaseColor.SeaBoard_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/ShopWindows_low_DefaultMaterial_BaseColor.ShopWindows_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/TrafficLight_low_DefaultMaterial_BaseColor.TrafficLight_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/TramStop_low_DefaultMaterial_BaseColor.TramStop_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.02:328][154]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Unoptimised/Textures/BaseColour/WallAssets_low_DefaultMaterial_BaseColor.WallAssets_low_DefaultMaterial_BaseColor
+[2025.05.26-12.55.05:043][431]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-12.55.05:129][431]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-12.55.05:138][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-12.55.07:538][612]LogContentBrowser: Attempting asset rename: NewFolder -> Opacity
+[2025.05.26-12.55.07:538][612]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-12.55.26:991][904]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-12.55.27:006][904]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-12.55.27:016][905]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-12.55.29:753][114]LogContentBrowser: Attempting asset rename: NewFolder -> Normal
+[2025.05.26-12.55.29:753][114]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-12.55.33:145][422]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-12.55.33:159][422]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-12.55.33:169][423]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-12.55.35:284][585]LogContentBrowser: Attempting asset rename: NewFolder -> RGB
+[2025.05.26-12.55.35:284][585]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-12.56.25:561][346]LogContentBrowser: Attempting asset rename: Opacity -> Emissive
+[2025.05.26-12.57.03:062][397]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.03:063][397]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...res/Low/Maps/Columns/Columns_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.03:088][398]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.03:421][398]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.03:426][399]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/Columns_low_DefaultMaterial_Normal.Columns_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.03:432][399]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.03:454][399]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.10:589][424]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.10:589][424]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ow/Maps/DarkMetallic/DarkMetallic_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.10:656][425]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.05.26-12.57.10:686][425]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.05.26-12.57.10:687][425]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2025.05.26-12.57.10:689][425]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.10:692][425]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/DarkMetallic_low_DefaultMaterial_Normal.DarkMetallic_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.10:712][425]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.10:715][425]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.11:039][426]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.24:324][476]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.24:324][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ow/Maps/DarkMetallic/DarkMetallic_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:360][476]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.24:360][476]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.24:360][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...res/Low/Maps/Columns/Columns_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:362][476]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/DarkMetallic_low_DefaultMaterial_Normal.DarkMetallic_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:434][476]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.24:435][476]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.24:435][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanTopper_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:435][476]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchBuilding_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchWindow_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchBalcony_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.26-12.57.24:436][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/DutchShop_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:437][476]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.26-12.57.24:437][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/DutchBuilding_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:437][476]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/Columns_low_DefaultMaterial_Normal.Columns_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:437][476]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.05.26-12.57.24:437][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/DrainPipe_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:438][476]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.05.26-12.57.24:438][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/Doors_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:438][476]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.05.26-12.57.24:438][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanRoof_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:439][476]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.26-12.57.24:439][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/Flag_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:439][476]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.05.26-12.57.24:439][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanEdge_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:440][476]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.05.26-12.57.24:440][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GerFreShops_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:441][476]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.05.26-12.57.24:441][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/ShopWindows_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:441][476]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:441][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/WindowObjects_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:442][476]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.05.26-12.57.24:442][476]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/ApartmentWindow_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:443][476]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.05.26-12.57.24:443][476]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.05.26-12.57.24:443][476]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.05.26-12.57.24:443][476]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.05.26-12.57.24:444][476]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.05.26-12.57.24:444][476]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.05.26-12.57.24:445][476]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.05.26-12.57.24:445][476]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.05.26-12.57.24:446][476]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.05.26-12.57.24:545][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:548][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/GermanEdge_low_DefaultMaterial_Normal.GermanEdge_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:568][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:577][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/ShopWindows_low_DefaultMaterial_Normal.ShopWindows_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:582][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:593][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/ApartmentWindow_low_DefaultMaterial_Normal.ApartmentWindow_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:604][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:613][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/DrainPipe_low_DefaultMaterial_Normal.DrainPipe_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:635][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:643][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/WindowObjects_low_DefaultMaterial_Normal.WindowObjects_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:653][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:664][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/Doors_low_DefaultMaterial_Normal.Doors_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:673][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:684][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/Flag_low_DefaultMaterial_Normal.Flag_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:704][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:713][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/GermanTopper_low_DefaultMaterial_Normal.GermanTopper_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:719][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:725][477]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.24:730][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/FrenchBalcony_low_DefaultMaterial_Normal.FrenchBalcony_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:766][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.24:767][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:767][477]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.05.26-12.57.24:767][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/WallAssets_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:770][477]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/TrafficLight_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/TramStop_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/SeaBoard_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/Road_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/PublicFurniture_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanRoom_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchTopper_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.05.26-12.57.24:779][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanColumn_low_DefaultMaterial_Normal.png]
+[2025.05.26-12.57.24:780][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.24:783][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/FrenchWindow_low_DefaultMaterial_Normal.FrenchWindow_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.24:784][477]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.25:217][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:233][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/GermanRoof_low_DefaultMaterial_Normal.GermanRoof_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:234][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:250][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/WallAssets_low_DefaultMaterial_Normal.WallAssets_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:258][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:296][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:300][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/FrenchBuilding_low_DefaultMaterial_Normal.FrenchBuilding_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:321][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:337][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/DutchShop_low_DefaultMaterial_Normal.DutchShop_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:357][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:372][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/GerFreShops_low_DefaultMaterial_Normal.GerFreShops_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:381][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:411][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:420][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/FrenchTopper_low_DefaultMaterial_Normal.FrenchTopper_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:440][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/GermanColumn_low_DefaultMaterial_Normal.GermanColumn_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:450][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/DutchBuilding_low_DefaultMaterial_Normal.DutchBuilding_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:453][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:487][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/TrafficLight_low_DefaultMaterial_Normal.TrafficLight_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:490][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:491][477]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.05.26-12.57.25:492][477]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.05.26-12.57.25:492][477]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.05.26-12.57.25:492][477]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.26-12.57.25:492][477]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.05.26-12.57.25:492][477]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.05.26-12.57.25:525][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:527][477]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.05.26-12.57.25:527][477]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.26-12.57.25:527][477]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.26-12.57.25:527][477]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.26-12.57.25:537][477]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.26-12.57.25:549][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/PublicFurniture_low_DefaultMaterial_Normal.PublicFurniture_low_DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:578][477]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.25:585][477]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/TramStop_low_DefaultMaterial_Normal.TramStop_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.25:625][477]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.26-12.57.25:838][478]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/GermanRoom_low_DefaultMaterial_Normal.GermanRoom_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.26:732][478]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.26:748][478]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/Road_low_DefaultMaterial_Normal.Road_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.26:749][478]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.26:753][478]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.26-12.57.26:792][478]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Normal/SeaBoard_low_DefaultMaterial_Normal.SeaBoard_low_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1233.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.26:883][478]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.26:964][479]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.46:405][902]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.57.46:405][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchBuilding_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:405][902]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.26-12.57.46:405][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchWindow_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:406][902]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.26-12.57.46:406][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchBalcony_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:406][902]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.26-12.57.46:406][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/DutchShop_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:406][902]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.26-12.57.46:406][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/DutchBuilding_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/Doors_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ow/Maps/DarkMetallic/DarkMetallic_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...res/Low/Maps/Columns/Columns_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.05.26-12.57.46:407][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanRoof_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:408][902]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.26-12.57.46:408][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/Flag_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:408][902]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.05.26-12.57.46:408][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanEdge_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:409][902]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.05.26-12.57.46:409][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GerFreShops_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:409][902]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.05.26-12.57.46:409][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/ShopWindows_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:409][902]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.46:409][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/WindowObjects_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:410][902]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.05.26-12.57.46:410][902]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/ApartmentWindow_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.46:410][902]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.05.26-12.57.46:410][902]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.05.26-12.57.46:410][902]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.05.26-12.57.46:410][902]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.05.26-12.57.46:411][902]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.05.26-12.57.46:411][902]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.05.26-12.57.46:411][902]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.05.26-12.57.46:411][902]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.05.26-12.57.46:412][902]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.05.26-12.57.46:412][902]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.05.26-12.57.46:440][903]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.05.26-12.57.46:780][903]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/ShopWindows_low_DefaultMaterial_OcclusionRoughnessMetallic.ShopWindows_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:780][903]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/ApartmentWindow_low_DefaultMaterial_OcclusionRoughnessMetallic.ApartmentWindow_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:782][903]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/Flag_low_DefaultMaterial_OcclusionRoughnessMetallic.Flag_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:787][903]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/FrenchWindow_low_DefaultMaterial_OcclusionRoughnessMetallic.FrenchWindow_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:788][903]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/WindowObjects_low_DefaultMaterial_OcclusionRoughnessMetallic.WindowObjects_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:789][903]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/GermanEdge_low_DefaultMaterial_OcclusionRoughnessMetallic.GermanEdge_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:792][903]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.26-12.57.46:806][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/Columns_low_DefaultMaterial_OcclusionRoughnessMetallic.Columns_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:810][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/DarkMetallic_low_DefaultMaterial_OcclusionRoughnessMetallic.DarkMetallic_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 561.562488 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:813][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/Doors_low_DefaultMaterial_OcclusionRoughnessMetallic.Doors_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:827][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/FrenchBalcony_low_DefaultMaterial_OcclusionRoughnessMetallic.FrenchBalcony_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:846][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/FrenchBuilding_low_DefaultMaterial_OcclusionRoughnessMetallic.FrenchBuilding_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:852][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/DutchBuilding_low_DefaultMaterial_OcclusionRoughnessMetallic.DutchBuilding_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:863][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/DutchShop_low_DefaultMaterial_OcclusionRoughnessMetallic.DutchShop_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:864][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/GerFreShops_low_DefaultMaterial_OcclusionRoughnessMetallic.GerFreShops_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.46:865][904]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/GermanRoof_low_DefaultMaterial_OcclusionRoughnessMetallic.GermanRoof_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:196][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:196][904]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.05.26-12.57.47:196][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/WallAssets_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:196][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:196][904]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/TrafficLight_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/TramStop_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/SeaBoard_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/Road_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/PublicFurniture_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:197][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanRoom_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/FrenchTopper_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanColumn_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/GermanTopper_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.26-12.57.47:198][904]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.05.26-12.57.47:199][904]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.05.26-12.57.47:199][904]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.05.26-12.57.47:199][904]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.26-12.57.47:748][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/GermanTopper_low_DefaultMaterial_OcclusionRoughnessMetallic.GermanTopper_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.26-12.57.47:749][907]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.26-12.57.47:750][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/FrenchTopper_low_DefaultMaterial_OcclusionRoughnessMetallic.FrenchTopper_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:753][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/WallAssets_low_DefaultMaterial_OcclusionRoughnessMetallic.WallAssets_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:755][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/TrafficLight_low_DefaultMaterial_OcclusionRoughnessMetallic.TrafficLight_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:756][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/PublicFurniture_low_DefaultMaterial_OcclusionRoughnessMetallic.PublicFurniture_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:759][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/GermanColumn_low_DefaultMaterial_OcclusionRoughnessMetallic.GermanColumn_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:793][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/GermanRoom_low_DefaultMaterial_OcclusionRoughnessMetallic.GermanRoom_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:794][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/TramStop_low_DefaultMaterial_OcclusionRoughnessMetallic.TramStop_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.47:796][907]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/Road_low_DefaultMaterial_OcclusionRoughnessMetallic.Road_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.48:148][908]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/RGB/SeaBoard_low_DefaultMaterial_OcclusionRoughnessMetallic.SeaBoard_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.57.48:459][909]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.57.48:477][909]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.58.13:217][817]LogInterchangeEngine: [Pending] Importing
+[2025.05.26-12.58.13:217][817]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/TramStop_low_DefaultMaterial_Emissive.png]
+[2025.05.26-12.58.13:217][817]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.26-12.58.13:217][817]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/PublicFurniture_low_DefaultMaterial_Emissive.png]
+[2025.05.26-12.58.13:218][817]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.26-12.58.13:218][817]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4205606/On...ct/Textures/Low/Maps/TrafficLight_low_DefaultMaterial_Emissive.png]
+[2025.05.26-12.58.13:238][818]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.26-12.58.13:596][819]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.26-12.58.13:596][819]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.26-12.58.13:596][819]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Emissive/PublicFurniture_low_DefaultMaterial_Emissive.PublicFurniture_low_DefaultMaterial_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.58.13:596][819]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Emissive/TrafficLight_low_DefaultMaterial_Emissive.TrafficLight_low_DefaultMaterial_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 350.145823 MB), EncodeSpeed: Fast
+[2025.05.26-12.58.13:616][819]LogInterchangeEngine: [Success] Import Done
+[2025.05.26-12.58.13:623][819]LogTexture: Display: Building textures: /Game/Unoptimised/Textures/Emissive/TramStop_low_DefaultMaterial_Emissive.TramStop_low_DefaultMaterial_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2025.05.26-12.58.13:645][819]LogInterchangeEngine: [Success] Import Done
