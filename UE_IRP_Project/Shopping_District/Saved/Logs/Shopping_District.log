@@ -15837,3 +15837,834 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.26-17.00.02:977][640]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_
 [2025.05.26-17.00.02:977][640]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_ as actor: SkeletalMeshActor /Game/Optimised_Shopping.Optimised_Shopping:PersistentLevel.SkeletalMeshActor_1
 [2025.05.26-17.00.02:995][640]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_ as actor: SkeletalMeshActor /Game/Optimised_Shopping.Optimised_Shopping:PersistentLevel.SkeletalMeshActor_1
+[2025.05.26-17.03.36:505][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.26-17.03.36:519][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised_Shopping_Auto6
+[2025.05.26-17.03.36:519][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Optimised_Shopping_Auto61EE66F66439510F46E97749F6FBCCB70.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised_Shopping_Auto6.umap'
+[2025.05.26-17.03.36:520][217]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised_Shopping_Auto6.umap is in the /Temp path, will not scan.
+[2025.05.26-17.03.36:520][217]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Optimised_Shopping_Auto6 is in the /Temp path, will not scan.
+[2025.05.26-17.03.36:520][217]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Optimised_Shopping_Auto6 is in the /Temp path, will not scan.
+[2025.05.26-17.03.36:520][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Optimised_Shopping' took 0.019
+[2025.05.26-17.03.36:520][217]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2025.05.26-17.03.36:520][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/UnionStreet__Op_] ([1] browsable assets)...
+[2025.05.26-17.03.36:553][217]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_]
+[2025.05.26-17.03.36:553][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/UnionStreet__Op_]
+[2025.05.26-17.03.36:779][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/UnionStreet__Op__Auto6
+[2025.05.26-17.03.36:779][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op__Auto63162955F4018C020E10DB4B5B36B6377.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/UnionStreet__Op__Auto6.uasset'
+[2025.05.26-17.03.36:779][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__576] ([1] browsable assets)...
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: ================================================
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Total job queries 4,934, among them cache hits 4,478 (90.76%)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 136 distinct outputs (53.12%)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: RAM used: 6.76 MiB of 3.20 GiB budget. Usage: 0.21%
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Shaders Compiled: 256
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Jobs assigned 256, completed 256 (100%)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Average time worker was idle: 1519.55 s
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.62 s
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Job life time (pending + execution): average 0.61 s, max 1.65
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Shader code size: average 47.823 KiB, min 4.465 KiB, max 73.395 KiB
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.46 s
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Jobs were issued in 241 batches (only local compilation was used), average 1.06 jobs/batch
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Average processing rate: 10.06 jobs/sec
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Total thread time: 70.327 s
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Total thread preprocess time: 19.438 s
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Percentage time preprocessing: 27.64%
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Effective parallelization: 2.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.39 sec, max 0.59 sec, min 0.19 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.37 sec, max 0.76 sec, min 0.22 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    9 times, average 0.35 sec, max 0.75 sec, min 0.25 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    9 times, average 0.35 sec, max 0.76 sec, min 0.24 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.34 sec, max 0.80 sec, min 0.25 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.87% of total time (compiled   29 times, average 0.26 sec, max 0.70 sec, min 0.18 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.73% of total time (compiled   26 times, average 0.29 sec, max 0.73 sec, min 0.17 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.06% of total time (compiled   15 times, average 0.33 sec, max 0.81 sec, min 0.22 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.24% of total time (compiled   12 times, average 0.37 sec, max 0.76 sec, min 0.22 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.81% of total time (compiled   12 times, average 0.34 sec, max 0.80 sec, min 0.25 sec)
+[2025.05.26-17.03.37:821][217]LogShaderCompilers: Display: ================================================
+[2025.05.26-17.03.37:827][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__576.Material__576]
+[2025.05.26-17.03.37:827][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__576]
+[2025.05.26-17.03.37:828][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__576_Auto6
+[2025.05.26-17.03.37:828][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__576_Auto6F37C8DDF4DF6806CD627E98943AA543E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__576_Auto6.uasset'
+[2025.05.26-17.03.37:828][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.37:829][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor.WallAssets_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:829][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:838][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.37:838][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WallAssets_low_DefaultMaterial_BC38DE0EA411C192D80E9B2AC03B1FFC4.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.37:838][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__573] ([1] browsable assets)...
+[2025.05.26-17.03.37:853][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__573.Material__573]
+[2025.05.26-17.03.37:853][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__573]
+[2025.05.26-17.03.37:854][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__573_Auto6
+[2025.05.26-17.03.37:854][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__573_Auto6451119B7414ACCA88C249291D3B4B7D9.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__573_Auto6.uasset'
+[2025.05.26-17.03.37:854][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.37:856][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor.FrenchBalcony_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:856][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:863][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.37:863][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBalcony_low_DefaultMateria140A6051435D88B09FDE25A4344F995D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.37:864][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__580] ([1] browsable assets)...
+[2025.05.26-17.03.37:878][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__580.Material__580]
+[2025.05.26-17.03.37:878][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__580]
+[2025.05.26-17.03.37:879][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__580_Auto6
+[2025.05.26-17.03.37:879][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__580_Auto6C92035684B72DF6F77A22FA9BDB21063.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__580_Auto6.uasset'
+[2025.05.26-17.03.37:879][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.37:880][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor.PublicFurniture_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:880][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:888][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.37:888][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/PublicFurniture_low_DefaultMaterD87CBF7E48076F7EFC66BFA3F8D4177F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.37:890][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__578] ([1] browsable assets)...
+[2025.05.26-17.03.37:904][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__578.Material__578]
+[2025.05.26-17.03.37:904][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__578]
+[2025.05.26-17.03.37:905][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__578_Auto6
+[2025.05.26-17.03.37:905][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__578_Auto66BED88C844E7D1F821BDB6BFD2E6588E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__578_Auto6.uasset'
+[2025.05.26-17.03.37:906][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.37:907][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor.DarkMetallic_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:907][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:915][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.37:915][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DarkMetallic_low_DefaultMaterialA2E9B3984A877F12B54473AC08D63839.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.37:916][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__574] ([1] browsable assets)...
+[2025.05.26-17.03.37:930][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__574.Material__574]
+[2025.05.26-17.03.37:930][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__574]
+[2025.05.26-17.03.37:931][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__574_Auto6
+[2025.05.26-17.03.37:931][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__574_Auto6982C56554DAB320098B70F9694BC6C74.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__574_Auto6.uasset'
+[2025.05.26-17.03.37:932][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.37:933][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor.SeaBoard_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:933][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.37:990][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.37:990][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/SeaBoard_low_DefaultMaterial_Bas59B124394927E9DCEA752A992593C8A5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.37:991][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__587] ([1] browsable assets)...
+[2025.05.26-17.03.38:006][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__587.Material__587]
+[2025.05.26-17.03.38:006][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__587]
+[2025.05.26-17.03.38:007][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__587_Auto6
+[2025.05.26-17.03.38:007][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__587_Auto62167D32C47553B1B14D1AAB136D7DE7C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__587_Auto6.uasset'
+[2025.05.26-17.03.38:008][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:009][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor.DrainPipe_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:009][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:017][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:017][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DrainPipe_low_DefaultMaterial_Ba6E7EF5924DC325D3899ED89F75D3FE69.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:018][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__584] ([1] browsable assets)...
+[2025.05.26-17.03.38:032][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__584.Material__584]
+[2025.05.26-17.03.38:032][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__584]
+[2025.05.26-17.03.38:033][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__584_Auto6
+[2025.05.26-17.03.38:033][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__584_Auto64993F86144BE4521698A3095AB26E800.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__584_Auto6.uasset'
+[2025.05.26-17.03.38:033][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:034][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor.TrimSheet2_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:035][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:088][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:088][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrimSheet2_low_DefaultMaterial_B6EB7C4D245AE7F5307F31E84D66B7AFB.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:089][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__581] ([1] browsable assets)...
+[2025.05.26-17.03.38:103][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__581.Material__581]
+[2025.05.26-17.03.38:103][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__581]
+[2025.05.26-17.03.38:104][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__581_Auto6
+[2025.05.26-17.03.38:104][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__581_Auto61073039B4CD87459EFFC3183DCDD33C8.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__581_Auto6.uasset'
+[2025.05.26-17.03.38:105][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:106][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor.DutchBuilding_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:106][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:161][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:161][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchBuilding_low_DefaultMateriaC28E1E4649742E1184BD1B9A126B7128.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:162][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__588] ([1] browsable assets)...
+[2025.05.26-17.03.38:176][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__588.Material__588]
+[2025.05.26-17.03.38:176][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__588]
+[2025.05.26-17.03.38:178][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__588_Auto6
+[2025.05.26-17.03.38:178][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__588_Auto665AAFCBA43A565277749F2A402DD424F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__588_Auto6.uasset'
+[2025.05.26-17.03.38:178][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Doors_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:179][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/Doors_low_DefaultMaterial_BaseColor.Doors_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:179][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Doors_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:187][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Doors_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:187][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Doors_low_DefaultMaterial_BaseCoFC587AF144FE0962BA708FB8AAB922C5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Doors_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:188][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__572] ([1] browsable assets)...
+[2025.05.26-17.03.38:203][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__572.Material__572]
+[2025.05.26-17.03.38:203][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__572]
+[2025.05.26-17.03.38:204][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__572_Auto6
+[2025.05.26-17.03.38:204][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__572_Auto6E76A64044F31383E047E3BABF4BD862C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__572_Auto6.uasset'
+[2025.05.26-17.03.38:204][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:206][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor.DutchShop_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:206][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:260][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:260][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchShop_low_DefaultMaterial_BaC62644724A63D5F3F0A4EEA858E93F11.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:260][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__401] ([1] browsable assets)...
+[2025.05.26-17.03.38:276][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__401.Material__401]
+[2025.05.26-17.03.38:276][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__401]
+[2025.05.26-17.03.38:277][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__401_Auto6
+[2025.05.26-17.03.38:278][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__401_Auto69BDBE6394162495481CF548F83BE5337.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__401_Auto6.uasset'
+[2025.05.26-17.03.38:278][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:279][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor.ShopWindows_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:279][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:287][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:287][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ShopWindows_low_DefaultMaterial_CD34D6B547EE68AD4B19A793E3583290.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:287][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__575] ([1] browsable assets)...
+[2025.05.26-17.03.38:302][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__575.Material__575]
+[2025.05.26-17.03.38:302][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__575]
+[2025.05.26-17.03.38:303][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__575_Auto6
+[2025.05.26-17.03.38:303][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__575_Auto64D9E84004D06235AF2247BBDFF981973.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__575_Auto6.uasset'
+[2025.05.26-17.03.38:304][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:305][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor.WindowObjects_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:305][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:313][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:313][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WindowObjects_low_DefaultMateria443F6A684F7DADCAD4398CB08F30CF51.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:313][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__389] ([1] browsable assets)...
+[2025.05.26-17.03.38:330][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__389.Material__389]
+[2025.05.26-17.03.38:330][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__389]
+[2025.05.26-17.03.38:331][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__389_Auto6
+[2025.05.26-17.03.38:331][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__389_Auto6C3F65C2144CA1F1734523F9A30A886B0.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__389_Auto6.uasset'
+[2025.05.26-17.03.38:331][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:332][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor.ApartmentWindow_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:332][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:340][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:341][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ApartmentWindow_low_DefaultMater9AE581F5484C27D45FE521BB695F08F4.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:341][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__583] ([1] browsable assets)...
+[2025.05.26-17.03.38:357][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__583.Material__583]
+[2025.05.26-17.03.38:357][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__583]
+[2025.05.26-17.03.38:358][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__583_Auto6
+[2025.05.26-17.03.38:358][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__583_Auto6110A587940552CA756053AB2CCD8B103.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__583_Auto6.uasset'
+[2025.05.26-17.03.38:359][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:360][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor.GermanRoom_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:360][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:424][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:424][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoom_low_DefaultMaterial_B5D86A50B45352FB46CAED8B02F7D56D4.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:424][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__579] ([1] browsable assets)...
+[2025.05.26-17.03.38:441][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__579.Material__579]
+[2025.05.26-17.03.38:441][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__579]
+[2025.05.26-17.03.38:443][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__579_Auto6
+[2025.05.26-17.03.38:443][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__579_Auto63D6F85A94AE98AD8B6117FA0A1728B25.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__579_Auto6.uasset'
+[2025.05.26-17.03.38:443][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Flag_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:444][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/Flag_low_DefaultMaterial_BaseColor.Flag_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:444][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Flag_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:452][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Flag_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:452][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Flag_low_DefaultMaterial_BaseCol2051622C48E6A8EE3CCF01A2D43C794A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Flag_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:453][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__569] ([1] browsable assets)...
+[2025.05.26-17.03.38:469][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__569.Material__569]
+[2025.05.26-17.03.38:469][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__569]
+[2025.05.26-17.03.38:470][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__569_Auto6
+[2025.05.26-17.03.38:470][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__569_Auto6463143224A1B9C4CD415388C937CAB1C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__569_Auto6.uasset'
+[2025.05.26-17.03.38:471][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Columns_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:472][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/Columns_low_DefaultMaterial_BaseColor.Columns_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:472][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Columns_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:480][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Columns_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:480][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Columns_low_DefaultMaterial_Base753C287D41E89CEC8C5367A89F0489DF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Columns_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:481][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__582] ([1] browsable assets)...
+[2025.05.26-17.03.38:497][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__582.Material__582]
+[2025.05.26-17.03.38:497][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__582]
+[2025.05.26-17.03.38:498][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__582_Auto6
+[2025.05.26-17.03.38:499][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__582_Auto6E20117ED4A6B2B68A3AA1A931566DF18.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__582_Auto6.uasset'
+[2025.05.26-17.03.38:499][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Fences_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:500][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/Fences_low_DefaultMaterial_BaseColor.Fences_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:500][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Fences_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:554][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Fences_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:554][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Fences_low_DefaultMaterial_BaseC5CB17A6041E0C06888387C82669C14EA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Fences_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:554][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__589] ([1] browsable assets)...
+[2025.05.26-17.03.38:571][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__589.Material__589]
+[2025.05.26-17.03.38:571][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__589]
+[2025.05.26-17.03.38:572][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__589_Auto6
+[2025.05.26-17.03.38:572][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__589_Auto61990951D4554C7740268ED8D496912A1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__589_Auto6.uasset'
+[2025.05.26-17.03.38:573][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:574][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor.FrenchBuilding_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:574][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:632][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:632][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateri0AA899734E07A0A24FC29F94EED58A17.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:632][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__571] ([1] browsable assets)...
+[2025.05.26-17.03.38:650][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__571.Material__571]
+[2025.05.26-17.03.38:650][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__571]
+[2025.05.26-17.03.38:652][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__571_Auto6
+[2025.05.26-17.03.38:652][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__571_Auto66971D22146B93DC5691F50A2702EF2EF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__571_Auto6.uasset'
+[2025.05.26-17.03.38:652][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:653][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor.FrenchWindow_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:653][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:662][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:662][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchWindow_low_DefaultMaterial16C952A74763863FAC3505B42ADB8DC1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:662][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__586] ([1] browsable assets)...
+[2025.05.26-17.03.38:679][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__586.Material__586]
+[2025.05.26-17.03.38:679][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__586]
+[2025.05.26-17.03.38:680][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__586_Auto6
+[2025.05.26-17.03.38:680][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__586_Auto6EA7A0D914EA37AB513801F86A7F31379.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__586_Auto6.uasset'
+[2025.05.26-17.03.38:681][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:682][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor.FrenchTopper_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:682][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:690][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:690][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchTopper_low_DefaultMaterial19FCDF4B41124531CC62E982E0EA32DB.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:691][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__570] ([1] browsable assets)...
+[2025.05.26-17.03.38:708][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__570.Material__570]
+[2025.05.26-17.03.38:708][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__570]
+[2025.05.26-17.03.38:709][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__570_Auto6
+[2025.05.26-17.03.38:709][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__570_Auto69277519741C92E3604529F9ECB5C8115.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__570_Auto6.uasset'
+[2025.05.26-17.03.38:709][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:710][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor.TrimSheet1_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:710][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:765][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:765][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrimSheet1_low_DefaultMaterial_BF772EBB5462E4C6D770693AB68BCE965.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:766][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__565] ([1] browsable assets)...
+[2025.05.26-17.03.38:784][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__565.Material__565]
+[2025.05.26-17.03.38:784][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__565]
+[2025.05.26-17.03.38:785][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__565_Auto6
+[2025.05.26-17.03.38:785][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__565_Auto698E432124B77392EAC88CC90261BB5E6.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__565_Auto6.uasset'
+[2025.05.26-17.03.38:786][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:787][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor.GermanRoof_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:787][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:846][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:846][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoof_low_DefaultMaterial_BEFC586854E0450AF8C60778BA873EBF8.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:847][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__380] ([1] browsable assets)...
+[2025.05.26-17.03.38:865][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__380.Material__380]
+[2025.05.26-17.03.38:865][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__380]
+[2025.05.26-17.03.38:866][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__380_Auto6
+[2025.05.26-17.03.38:866][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__380_Auto63B86E623492A9916F3389985C4898D19.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__380_Auto6.uasset'
+[2025.05.26-17.03.38:866][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1] ([1] browsable assets)...
+[2025.05.26-17.03.38:867][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1.FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1]
+[2025.05.26-17.03.38:867][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1]
+[2025.05.26-17.03.38:924][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1_Auto6
+[2025.05.26-17.03.38:924][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateri62ECD28D49CF7A5116C908B145A27C1A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1_Auto6.uasset'
+[2025.05.26-17.03.38:924][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__566] ([1] browsable assets)...
+[2025.05.26-17.03.38:942][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__566.Material__566]
+[2025.05.26-17.03.38:942][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__566]
+[2025.05.26-17.03.38:943][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__566_Auto6
+[2025.05.26-17.03.38:943][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__566_Auto6FEEBD2B3438B3B19C6750299BC23AEA4.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__566_Auto6.uasset'
+[2025.05.26-17.03.38:943][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:944][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor.GermanColumn_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:944][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:953][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:953][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanColumn_low_DefaultMaterial8F235A454223528EDA47C69FA822820B.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:953][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__381] ([1] browsable assets)...
+[2025.05.26-17.03.38:971][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__381.Material__381]
+[2025.05.26-17.03.38:971][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__381]
+[2025.05.26-17.03.38:972][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__381_Auto6
+[2025.05.26-17.03.38:972][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__381_Auto6CD2F1DC54E417557A0F9BFA13B50E4CF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__381_Auto6.uasset'
+[2025.05.26-17.03.38:972][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.38:974][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor.GermanTopper_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:974][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.38:982][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.38:982][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanTopper_low_DefaultMaterial25EAC8E34532C47B3083AC8F7AA0AAA2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.38:982][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__577] ([1] browsable assets)...
+[2025.05.26-17.03.39:000][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__577.Material__577]
+[2025.05.26-17.03.39:000][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__577]
+[2025.05.26-17.03.39:001][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__577_Auto6
+[2025.05.26-17.03.39:001][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__577_Auto6101782CF44F7A77000EEF082B46C04C0.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__577_Auto6.uasset'
+[2025.05.26-17.03.39:002][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.39:003][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor.TrafficLight_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.39:003][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.39:011][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.39:011][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrafficLight_low_DefaultMaterial0C4824714C76ACF54195C085F744FC36.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.39:011][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/Material__585] ([1] browsable assets)...
+[2025.05.26-17.03.39:028][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Optimised/Material__585.Material__585]
+[2025.05.26-17.03.39:028][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/Material__585]
+[2025.05.26-17.03.39:029][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/Material__585_Auto6
+[2025.05.26-17.03.39:029][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__585_Auto6F8D6EBCB4CF9840631A359B4A21A4E6C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/Material__585_Auto6.uasset'
+[2025.05.26-17.03.39:030][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/TramStop_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.05.26-17.03.39:031][217]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Optimised/TramStop_low_DefaultMaterial_BaseColor.TramStop_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.39:031][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/TramStop_low_DefaultMaterial_BaseColor]
+[2025.05.26-17.03.39:093][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/TramStop_low_DefaultMaterial_BaseColor_Auto6
+[2025.05.26-17.03.39:093][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TramStop_low_DefaultMaterial_BasA17445274611FB728B57F7BFD3B9DC6B.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/TramStop_low_DefaultMaterial_BaseColor_Auto6.uasset'
+[2025.05.26-17.03.39:094][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/UnionStreet__Op__Skeleton] ([1] browsable assets)...
+[2025.05.26-17.03.39:121][217]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Optimised/UnionStreet__Op__Skeleton.UnionStreet__Op__Skeleton]
+[2025.05.26-17.03.39:121][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/UnionStreet__Op__Skeleton]
+[2025.05.26-17.03.39:126][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/UnionStreet__Op__Skeleton_Auto6
+[2025.05.26-17.03.39:126][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op__Skeleton_Auto6677E510F4E0F6C0B13F82A8458611362.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/UnionStreet__Op__Skeleton_Auto6.uasset'
+[2025.05.26-17.03.39:126][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Optimised/UnionStreet__Op__PhysicsAsset] ([1] browsable assets)...
+[2025.05.26-17.03.39:139][217]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Optimised/UnionStreet__Op__PhysicsAsset.UnionStreet__Op__PhysicsAsset]
+[2025.05.26-17.03.39:139][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Optimised/UnionStreet__Op__PhysicsAsset]
+[2025.05.26-17.03.39:184][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Optimised/UnionStreet__Op__PhysicsAsset_Auto6
+[2025.05.26-17.03.39:184][217]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op__PhysicsAsset_Au8F34BA6645F5A62E1D118896BB51783D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Autosaves/Game/Optimised/UnionStreet__Op__PhysicsAsset_Auto6.uasset'
+[2025.05.26-17.03.39:184][217]LogFileHelpers: Auto-saving content packages took 2.664
+[2025.05.26-17.03.39:294][218]LogAutomationController: Ignoring very large delta of 2.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-17.03.41:695][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.03.41:755][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/UnionStreet__Op_" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/UnionStreet__Op_.uasset" SILENT=true
+[2025.05.26-17.03.41:977][429]LogSavePackage: Moving output files for package: /Game/Optimised/UnionStreet__Op_
+[2025.05.26-17.03.41:977][429]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op_F5F4C620440EB73B441F89942FECBCDA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/UnionStreet__Op_.uasset'
+[2025.05.26-17.03.41:983][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 22.6 sec)
+[2025.05.26-17.03.41:984][429]AssetCheck: New page: Asset Save: UnionStreet__Op_
+[2025.05.26-17.03.41:984][429]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_
+[2025.05.26-17.03.53:455][474]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-17.03.53:466][474]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-17.03.53:493][475]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-17.03.57:555][886]LogContentBrowser: Attempting asset rename: NewFolder -> BaseColour
+[2025.05.26-17.03.57:555][886]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-17.04.01:558][245]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-17.04.01:569][245]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-17.04.01:597][246]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-17.04.04:891][579]LogContentBrowser: Attempting asset rename: NewFolder -> Emissive
+[2025.05.26-17.04.04:891][579]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-17.04.10:080][ 53]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-17.04.10:090][ 53]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-17.04.10:117][ 54]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-17.04.13:023][348]LogContentBrowser: Attempting asset rename: NewFolder -> Normal
+[2025.05.26-17.04.13:024][348]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-17.04.18:506][837]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-17.04.18:527][837]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-17.04.18:553][838]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-17.04.20:902][ 78]LogContentBrowser: Attempting asset rename: NewFolder -> RGB
+[2025.05.26-17.04.20:902][ 78]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-17.04.27:497][690]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-17.04.27:515][690]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-17.04.27:541][691]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-17.04.30:076][950]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.05.26-17.04.30:076][950]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-17.04.35:649][465]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.26-17.04.35:668][465]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.26-17.04.35:693][466]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.26-17.04.41:799][ 85]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2025.05.26-17.04.41:800][ 85]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-17.05.26:334][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.26-17.05.28:570][876]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-17.05.28:581][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.05.28:654][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.05.26-17.05.28:658][876]LogSavePackage: Moving output files for package: /Game/Optimised_Shopping
+[2025.05.26-17.05.28:658][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Optimised_Shopping168CA8AF44435A100C7F8C97EF8CEC8E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised_Shopping.umap'
+[2025.05.26-17.05.28:664][876]LogFileHelpers: Saving map 'Optimised_Shopping' took 0.028
+[2025.05.26-17.05.28:699][876]LogSavePackage: Moving output files for package: /Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.28:699][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ApartmentWindow_low_DefaultMater3997794C4DE2C5E9411857A23183AFE3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.28:744][876]LogSavePackage: Moving output files for package: /Game/Optimised/Columns_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.28:744][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Columns_low_DefaultMaterial_Base5AE38BF74014D89DD67774B7A7CA8F6D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Columns_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.28:783][876]LogSavePackage: Moving output files for package: /Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.28:783][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DarkMetallic_low_DefaultMaterial7C92AA564B9640444B4C0D9C93CB45FD.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.28:823][876]LogSavePackage: Moving output files for package: /Game/Optimised/Doors_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.28:823][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Doors_low_DefaultMaterial_BaseCo3BC66E6A447B1342DF946FA58F40FF2A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Doors_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.28:860][876]LogSavePackage: Moving output files for package: /Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.28:860][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DrainPipe_low_DefaultMaterial_BaF1F8AF394309B7F39D0B03AD382B19E3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/DrainPipe_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:009][876]LogSavePackage: Moving output files for package: /Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:009][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchBuilding_low_DefaultMateria4656C45F4E9C12551B294C8F04AD02EA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:161][876]LogSavePackage: Moving output files for package: /Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:161][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchShop_low_DefaultMaterial_Ba94B671AD48C1D75D40D7F295E0F61D30.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/DutchShop_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:308][876]LogSavePackage: Moving output files for package: /Game/Optimised/Fences_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:308][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Fences_low_DefaultMaterial_BaseC638C289A4DE68D85DA89BD846865C2F9.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Fences_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:347][876]LogSavePackage: Moving output files for package: /Game/Optimised/Flag_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:348][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Flag_low_DefaultMaterial_BaseCol6FEDE4F0404A78597B23A8807E447587.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Flag_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:388][876]LogSavePackage: Moving output files for package: /Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:388][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBalcony_low_DefaultMateriaD3BAA4A14C4278EA1A621F9964C74BF2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:538][876]LogSavePackage: Moving output files for package: /Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:538][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateri06CB7FDB4F1B98333AEA7287298F1046.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:689][876]LogSavePackage: Moving output files for package: /Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1
+[2025.05.26-17.05.29:689][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateri9B823D04491157426CAE5C8229916C3D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1.uasset'
+[2025.05.26-17.05.29:725][876]LogSavePackage: Moving output files for package: /Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:725][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchTopper_low_DefaultMaterial8FC0C57E467D27B2798DA699C91343FD.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:765][876]LogSavePackage: Moving output files for package: /Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:765][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchWindow_low_DefaultMaterial52E8FA0A4116B38B5A2824BDA118E36F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:803][876]LogSavePackage: Moving output files for package: /Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:803][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanColumn_low_DefaultMaterialB48FEC2344EB9D177A6651822223AFA3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/GermanColumn_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.29:950][876]LogSavePackage: Moving output files for package: /Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.29:950][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoof_low_DefaultMaterial_BB82D79E24FD3A46DEB8064A7E8B5D9AA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/GermanRoof_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:097][876]LogSavePackage: Moving output files for package: /Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:097][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoom_low_DefaultMaterial_B67C0A14847C17F51F39B2E8DE8BFE57F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/GermanRoom_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:133][876]LogSavePackage: Moving output files for package: /Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:133][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanTopper_low_DefaultMaterialD19153C4484E6476E34F4F8079AC2D94.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/GermanTopper_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:133][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__380" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__380.uasset" SILENT=true
+[2025.05.26-17.05.30:134][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__380
+[2025.05.26-17.05.30:134][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__38050FC96E2474C6BAF731DD395B65AD4FA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__380.uasset'
+[2025.05.26-17.05.30:135][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__381" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__381.uasset" SILENT=true
+[2025.05.26-17.05.30:135][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__381
+[2025.05.26-17.05.30:135][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3819FFF003D460298BEEC1AF3B16D3445D4.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__381.uasset'
+[2025.05.26-17.05.30:135][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__389" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__389.uasset" SILENT=true
+[2025.05.26-17.05.30:136][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__389
+[2025.05.26-17.05.30:136][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3891315562D4C9D603D9886CF942B047B13.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__389.uasset'
+[2025.05.26-17.05.30:136][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__401" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__401.uasset" SILENT=true
+[2025.05.26-17.05.30:137][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__401
+[2025.05.26-17.05.30:137][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__401E52FC3CF4DC307D5B3629FA5A7A0E80F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__401.uasset'
+[2025.05.26-17.05.30:137][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__565" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__565.uasset" SILENT=true
+[2025.05.26-17.05.30:138][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__565
+[2025.05.26-17.05.30:138][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5656E57E0A84D6B4BC8DC3DDBA4E0272EB3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__565.uasset'
+[2025.05.26-17.05.30:138][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__566" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__566.uasset" SILENT=true
+[2025.05.26-17.05.30:139][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__566
+[2025.05.26-17.05.30:139][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5660904101240451415136A2CB3A4F21D37.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__566.uasset'
+[2025.05.26-17.05.30:139][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__569" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__569.uasset" SILENT=true
+[2025.05.26-17.05.30:140][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__569
+[2025.05.26-17.05.30:140][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__56900B1245646EE9500546647B7C65359D1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__569.uasset'
+[2025.05.26-17.05.30:140][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__570" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__570.uasset" SILENT=true
+[2025.05.26-17.05.30:140][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__570
+[2025.05.26-17.05.30:140][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5700DDA60F44B75488E582A40B155B4D18D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__570.uasset'
+[2025.05.26-17.05.30:141][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__571" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__571.uasset" SILENT=true
+[2025.05.26-17.05.30:141][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__571
+[2025.05.26-17.05.30:141][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__57165485C4145FC8AE0558B31A7E5E04955.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__571.uasset'
+[2025.05.26-17.05.30:141][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__572" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__572.uasset" SILENT=true
+[2025.05.26-17.05.30:142][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__572
+[2025.05.26-17.05.30:142][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__572583655A242155D3FD23CD78EC133B039.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__572.uasset'
+[2025.05.26-17.05.30:142][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__573" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__573.uasset" SILENT=true
+[2025.05.26-17.05.30:143][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__573
+[2025.05.26-17.05.30:143][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5737D9A369740FFA2A981ABBEADC73DFFCF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__573.uasset'
+[2025.05.26-17.05.30:143][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__574" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__574.uasset" SILENT=true
+[2025.05.26-17.05.30:144][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__574
+[2025.05.26-17.05.30:144][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5742B61268D4E4C53E9B0B20D921CB32785.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__574.uasset'
+[2025.05.26-17.05.30:144][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__575" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__575.uasset" SILENT=true
+[2025.05.26-17.05.30:144][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__575
+[2025.05.26-17.05.30:144][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5758CA96E7F4D647C5DDABA4C9DF4843045.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__575.uasset'
+[2025.05.26-17.05.30:145][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__576" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__576.uasset" SILENT=true
+[2025.05.26-17.05.30:145][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__576
+[2025.05.26-17.05.30:145][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__576F6651F7B43B7E4BBAB92B8A5C7DDD2D8.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__576.uasset'
+[2025.05.26-17.05.30:146][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__577" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__577.uasset" SILENT=true
+[2025.05.26-17.05.30:146][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__577
+[2025.05.26-17.05.30:146][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__57743E2041344C3E079F11F4CAF5173F883.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__577.uasset'
+[2025.05.26-17.05.30:146][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__578" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__578.uasset" SILENT=true
+[2025.05.26-17.05.30:147][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__578
+[2025.05.26-17.05.30:147][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5784F3DD2784409328FC6AF87AC03D74357.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__578.uasset'
+[2025.05.26-17.05.30:147][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__579" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__579.uasset" SILENT=true
+[2025.05.26-17.05.30:148][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__579
+[2025.05.26-17.05.30:148][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__57921EEF9254584665897B5CC9AF3EF50ED.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__579.uasset'
+[2025.05.26-17.05.30:148][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__580" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__580.uasset" SILENT=true
+[2025.05.26-17.05.30:148][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__580
+[2025.05.26-17.05.30:148][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5800E8CDDED465364F614D413A5DB81895F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__580.uasset'
+[2025.05.26-17.05.30:149][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__581" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__581.uasset" SILENT=true
+[2025.05.26-17.05.30:149][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__581
+[2025.05.26-17.05.30:149][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5818B77CB044C26F21BD990AD9E6309B181.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__581.uasset'
+[2025.05.26-17.05.30:149][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__582" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__582.uasset" SILENT=true
+[2025.05.26-17.05.30:150][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__582
+[2025.05.26-17.05.30:150][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__582021DFE5C463A58307924FFB348E647E3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__582.uasset'
+[2025.05.26-17.05.30:150][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__583" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__583.uasset" SILENT=true
+[2025.05.26-17.05.30:151][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__583
+[2025.05.26-17.05.30:151][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__583DCDDFDF04D1282CA6FF51F8EB30E6D2F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__583.uasset'
+[2025.05.26-17.05.30:151][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__584" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__584.uasset" SILENT=true
+[2025.05.26-17.05.30:152][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__584
+[2025.05.26-17.05.30:152][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__584AABF0D624B88ECD91325F5BBAEA2E403.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__584.uasset'
+[2025.05.26-17.05.30:152][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__585" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__585.uasset" SILENT=true
+[2025.05.26-17.05.30:153][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__585
+[2025.05.26-17.05.30:153][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__585A2FC017D402AAFB18A6F76A29F5D250E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__585.uasset'
+[2025.05.26-17.05.30:153][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__586" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__586.uasset" SILENT=true
+[2025.05.26-17.05.30:153][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__586
+[2025.05.26-17.05.30:154][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__58605AE1AA747A0FBA502CF34A9DD81404F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__586.uasset'
+[2025.05.26-17.05.30:154][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__587" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__587.uasset" SILENT=true
+[2025.05.26-17.05.30:154][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__587
+[2025.05.26-17.05.30:154][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5872930D475456E6BCA46CBC59E0BE25D93.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__587.uasset'
+[2025.05.26-17.05.30:155][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__588" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__588.uasset" SILENT=true
+[2025.05.26-17.05.30:155][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__588
+[2025.05.26-17.05.30:155][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__588CCCC77BE4B4B169EC1026D85C42996EE.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__588.uasset'
+[2025.05.26-17.05.30:155][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/Material__589" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__589.uasset" SILENT=true
+[2025.05.26-17.05.30:156][876]LogSavePackage: Moving output files for package: /Game/Optimised/Material__589
+[2025.05.26-17.05.30:156][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__589453FEEED4B5422C840754F8F852B4F90.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Material__589.uasset'
+[2025.05.26-17.05.30:195][876]LogSavePackage: Moving output files for package: /Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:195][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/PublicFurniture_low_DefaultMater8313F13F4A3815DDB7CD81860A3625D5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:355][876]LogSavePackage: Moving output files for package: /Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:355][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/SeaBoard_low_DefaultMaterial_BasFEB38DA147D6FC32152AB5AF745914E1.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/SeaBoard_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:391][876]LogSavePackage: Moving output files for package: /Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:391][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ShopWindows_low_DefaultMaterial_CC0DCD5A437C1D873B4269912F3C6018.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/ShopWindows_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:431][876]LogSavePackage: Moving output files for package: /Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:432][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrafficLight_low_DefaultMaterial8C41D05946463FF2BE89AA85D4C6B702.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/TrafficLight_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:570][876]LogSavePackage: Moving output files for package: /Game/Optimised/TramStop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:570][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TramStop_low_DefaultMaterial_BasD874870F4C802823C8295685C7298663.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/TramStop_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:731][876]LogSavePackage: Moving output files for package: /Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:731][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrimSheet1_low_DefaultMaterial_BC1505F1E4D8A2FC543F054943DA5B4CE.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:887][876]LogSavePackage: Moving output files for package: /Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:887][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrimSheet2_low_DefaultMaterial_B74DC00F04FF0F85755003A98BFE8B0B2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.30:933][876]LogSavePackage: Moving output files for package: /Game/Optimised/UnionStreet__Op__PhysicsAsset
+[2025.05.26-17.05.30:933][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op__PhysicsAsset124E713043AC47595B6779A5F2A45800.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/UnionStreet__Op__PhysicsAsset.uasset'
+[2025.05.26-17.05.30:938][876]LogSavePackage: Moving output files for package: /Game/Optimised/UnionStreet__Op__Skeleton
+[2025.05.26-17.05.30:938][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op__Skeleton44D0F5DF4DCDC1841A6F3C9EA0E03168.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/UnionStreet__Op__Skeleton.uasset'
+[2025.05.26-17.05.30:977][876]LogSavePackage: Moving output files for package: /Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.30:977][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WallAssets_low_DefaultMaterial_BD92E882A4497A5FAE2C22D968E21A3FE.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/WallAssets_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.31:015][876]LogSavePackage: Moving output files for package: /Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:015][876]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WindowObjects_low_DefaultMateria1D998A8F47BB4ED541A5D689DCF2999F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/WindowObjects_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.31:022][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.44 sec (total: 25.0 sec)
+[2025.05.26-17.05.31:026][876]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.World /Game/Optimised_Shopping.Optimised_Shopping
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/ApartmentWindow_low_DefaultMaterial_BaseColor.ApartmentWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Columns_low_DefaultMaterial_BaseColor.Columns_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/DarkMetallic_low_DefaultMaterial_BaseColor.DarkMetallic_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Doors_low_DefaultMaterial_BaseColor.Doors_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/DrainPipe_low_DefaultMaterial_BaseColor.DrainPipe_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/DutchBuilding_low_DefaultMaterial_BaseColor.DutchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/DutchShop_low_DefaultMaterial_BaseColor.DutchShop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Fences_low_DefaultMaterial_BaseColor.Fences_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Flag_low_DefaultMaterial_BaseColor.Flag_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/FrenchBalcony_low_DefaultMaterial_BaseColor.FrenchBalcony_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor.FrenchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1.FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/FrenchTopper_low_DefaultMaterial_BaseColor.FrenchTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/FrenchWindow_low_DefaultMaterial_BaseColor.FrenchWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/GermanColumn_low_DefaultMaterial_BaseColor.GermanColumn_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/GermanRoof_low_DefaultMaterial_BaseColor.GermanRoof_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/GermanRoom_low_DefaultMaterial_BaseColor.GermanRoom_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/GermanTopper_low_DefaultMaterial_BaseColor.GermanTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__380.Material__380
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__381.Material__381
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__389.Material__389
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__401.Material__401
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__565.Material__565
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__566.Material__566
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__569.Material__569
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__570.Material__570
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__571.Material__571
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__572.Material__572
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__573.Material__573
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__574.Material__574
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__575.Material__575
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__576.Material__576
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__577.Material__577
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__578.Material__578
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__579.Material__579
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__580.Material__580
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__581.Material__581
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__582.Material__582
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__583.Material__583
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__584.Material__584
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__585.Material__585
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__586.Material__586
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__587.Material__587
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__588.Material__588
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Material__589.Material__589
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/PublicFurniture_low_DefaultMaterial_BaseColor.PublicFurniture_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/SeaBoard_low_DefaultMaterial_BaseColor.SeaBoard_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/ShopWindows_low_DefaultMaterial_BaseColor.ShopWindows_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/TrafficLight_low_DefaultMaterial_BaseColor.TrafficLight_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/TramStop_low_DefaultMaterial_BaseColor.TramStop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/TrimSheet1_low_DefaultMaterial_BaseColor.TrimSheet1_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/TrimSheet2_low_DefaultMaterial_BaseColor.TrimSheet2_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Optimised/UnionStreet__Op__PhysicsAsset.UnionStreet__Op__PhysicsAsset
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Optimised/UnionStreet__Op__Skeleton.UnionStreet__Op__Skeleton
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/WallAssets_low_DefaultMaterial_BaseColor.WallAssets_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:027][876]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/WindowObjects_low_DefaultMaterial_BaseColor.WindowObjects_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.31:033][876]LogAutomationController: Ignoring very large delta of 4.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-17.05.38:088][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.05.38:138][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Optimised/UnionStreet__Op_" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/UnionStreet__Op_.uasset" SILENT=true
+[2025.05.26-17.05.38:348][465]LogSavePackage: Moving output files for package: /Game/Optimised/UnionStreet__Op_
+[2025.05.26-17.05.38:348][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/UnionStreet__Op_D4B527184C2B90B75B2C19BDF7FD88EB.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/UnionStreet__Op_.uasset'
+[2025.05.26-17.05.38:352][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__380
+[2025.05.26-17.05.38:352][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__38018B6D9A145410427DD9C7DA5F7E2428F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__380.uasset'
+[2025.05.26-17.05.38:352][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__381
+[2025.05.26-17.05.38:353][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__381DA14303D4E9ACBDF76EE26BE71C75AE8.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__381.uasset'
+[2025.05.26-17.05.38:354][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__389
+[2025.05.26-17.05.38:354][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__38994BDCDEC443BD4F27FE964B1F7382717.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__389.uasset'
+[2025.05.26-17.05.38:355][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__401
+[2025.05.26-17.05.38:355][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__4014C446F6947E0C1DF3F7A1E8864CD58F6.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__401.uasset'
+[2025.05.26-17.05.38:356][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__565
+[2025.05.26-17.05.38:356][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5654B8131104FB4D775606C1184850031ED.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__565.uasset'
+[2025.05.26-17.05.38:357][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__566
+[2025.05.26-17.05.38:357][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5662B9A367E45BDA42EED7321887D6B44AF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__566.uasset'
+[2025.05.26-17.05.38:359][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__569
+[2025.05.26-17.05.38:359][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__56901339FEC47880B59737BE29B01BDCB39.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__569.uasset'
+[2025.05.26-17.05.38:359][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__570
+[2025.05.26-17.05.38:359][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__570FAC695804EBB4C74951F1EB7DECFFCA9.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__570.uasset'
+[2025.05.26-17.05.38:360][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__571
+[2025.05.26-17.05.38:360][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__571AE07403044F60F8E0082B5931BF29AC9.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__571.uasset'
+[2025.05.26-17.05.38:361][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__572
+[2025.05.26-17.05.38:361][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__572A1632C3A469C91C2309C839DB48BCED7.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__572.uasset'
+[2025.05.26-17.05.38:362][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__573
+[2025.05.26-17.05.38:362][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5735341ECDC466CBA12B552CF9510A0AA36.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__573.uasset'
+[2025.05.26-17.05.38:363][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__574
+[2025.05.26-17.05.38:363][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__574FD1B9BD843C0555C87D460AB32390BD5.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__574.uasset'
+[2025.05.26-17.05.38:363][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__575
+[2025.05.26-17.05.38:363][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__575E67CCC9C45F5D4F39B402898712ADBB0.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__575.uasset'
+[2025.05.26-17.05.38:364][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__576
+[2025.05.26-17.05.38:364][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5762AC8BE4141CB00DEDD41CAB5E656649A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__576.uasset'
+[2025.05.26-17.05.38:365][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__577
+[2025.05.26-17.05.38:365][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__577E6E90D974573F1431666008C7DC44231.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__577.uasset'
+[2025.05.26-17.05.38:366][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__578
+[2025.05.26-17.05.38:366][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5788CE6DD03430EDF3E9FDA95B2EA1F0E7E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__578.uasset'
+[2025.05.26-17.05.38:367][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__579
+[2025.05.26-17.05.38:367][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5797F974A5643BB0248193D19AA7208D1F8.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__579.uasset'
+[2025.05.26-17.05.38:367][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__580
+[2025.05.26-17.05.38:367][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__58038DF4E104543FB55EF039282A8601975.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__580.uasset'
+[2025.05.26-17.05.38:368][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__581
+[2025.05.26-17.05.38:368][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__581820CF81141FBEDCBA9CC06BA2DF72F93.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__581.uasset'
+[2025.05.26-17.05.38:369][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__582
+[2025.05.26-17.05.38:369][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__582639A18644CD40B8E5DCAD79AE83D4F53.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__582.uasset'
+[2025.05.26-17.05.38:370][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__583
+[2025.05.26-17.05.38:370][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__583AFDFA4C442D4A865E71FDBA7BF745B22.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__583.uasset'
+[2025.05.26-17.05.38:371][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__584
+[2025.05.26-17.05.38:371][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__584035228654ED0CA4468A1619CFA5F07AE.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__584.uasset'
+[2025.05.26-17.05.38:371][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__585
+[2025.05.26-17.05.38:371][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__585200C75904554EF9B238CE7BE24FE469C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__585.uasset'
+[2025.05.26-17.05.38:372][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__586
+[2025.05.26-17.05.38:372][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5860391480C43EAEB47CE3FB4AE8048B2AF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__586.uasset'
+[2025.05.26-17.05.38:373][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__587
+[2025.05.26-17.05.38:373][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__587E11FCF4C4977EC12DFE9FCB11C2A8C15.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__587.uasset'
+[2025.05.26-17.05.38:374][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__588
+[2025.05.26-17.05.38:374][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__58871121D474C4FC2751E3A9AB261EA6D31.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__588.uasset'
+[2025.05.26-17.05.38:375][465]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__589
+[2025.05.26-17.05.38:375][465]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__589A7F8321046614C9CD2B59485AC5797B2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__589.uasset'
+[2025.05.26-17.05.38:380][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 25.3 sec)
+[2025.05.26-17.05.38:398][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.05.26-17.05.38:401][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-17.05.38:404][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2025.05.26-17.05.38:415][465]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__380.Material__380
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__381.Material__381
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__389.Material__389
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__401.Material__401
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__565.Material__565
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__566.Material__566
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__569.Material__569
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__570.Material__570
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__571.Material__571
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__572.Material__572
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__573.Material__573
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__574.Material__574
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__575.Material__575
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__576.Material__576
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__577.Material__577
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__578.Material__578
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__579.Material__579
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__580.Material__580
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__581.Material__581
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__582.Material__582
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__583.Material__583
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__584.Material__584
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__585.Material__585
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__586.Material__586
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__587.Material__587
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__588.Material__588
+[2025.05.26-17.05.38:415][465]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__589.Material__589
+[2025.05.26-17.05.44:917][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-17.05.45:013][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__389
+[2025.05.26-17.05.45:014][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__389D61A9E914FA20A63BDEEF1B295005E38.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__389.uasset'
+[2025.05.26-17.05.45:014][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__569
+[2025.05.26-17.05.45:015][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5695D2F0A0A46551F127526E08FED43434C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__569.uasset'
+[2025.05.26-17.05.45:015][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__578
+[2025.05.26-17.05.45:015][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5782EC47ED9467C50A76FA1F19D3325AE59.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__578.uasset'
+[2025.05.26-17.05.45:016][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__588
+[2025.05.26-17.05.45:016][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__588CBD3B775428D267C8E552188B653FC16.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__588.uasset'
+[2025.05.26-17.05.45:017][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__587
+[2025.05.26-17.05.45:017][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5879F699D1E4D87DC7B6A938B8B2D8B293A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__587.uasset'
+[2025.05.26-17.05.45:018][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__581
+[2025.05.26-17.05.45:018][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__581E2D446AA4336B731C140AFB59DE81654.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__581.uasset'
+[2025.05.26-17.05.45:019][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__572
+[2025.05.26-17.05.45:019][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__572D302EF304DF45F8D2B0C00B5AD3C1A11.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__572.uasset'
+[2025.05.26-17.05.45:020][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__582
+[2025.05.26-17.05.45:020][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__582AAD2485D4037D8055B5B32ACF8A91211.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__582.uasset'
+[2025.05.26-17.05.45:021][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__579
+[2025.05.26-17.05.45:021][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__579230DAF034E8A3F79110EAE8F6BCB141F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__579.uasset'
+[2025.05.26-17.05.45:022][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__573
+[2025.05.26-17.05.45:022][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__573B8D0611044E151D530A0F4B3DE0CA943.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__573.uasset'
+[2025.05.26-17.05.45:022][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__589
+[2025.05.26-17.05.45:023][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__589D7ADE31C487A88BF774C4CB54990365E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__589.uasset'
+[2025.05.26-17.05.45:023][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__380
+[2025.05.26-17.05.45:023][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__38077CFCF714D1CA66055A007B9B230E7EA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__380.uasset'
+[2025.05.26-17.05.45:025][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__586
+[2025.05.26-17.05.45:025][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5869F21FAC141CF70CC40488F9D5A9DE507.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__586.uasset'
+[2025.05.26-17.05.45:026][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__571
+[2025.05.26-17.05.45:027][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__571233F4B8D468AA3EC7DD8B2AE82492D2F.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__571.uasset'
+[2025.05.26-17.05.45:028][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__566
+[2025.05.26-17.05.45:028][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__56689EE73A343EB1BC399D7AAA6BB4F2F5A.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__566.uasset'
+[2025.05.26-17.05.45:029][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__565
+[2025.05.26-17.05.45:029][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__56531C8AD8C4642A9DE92BBCFA1317C2A1B.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__565.uasset'
+[2025.05.26-17.05.45:030][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__583
+[2025.05.26-17.05.45:030][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__58305F14FFA40C3E4E627790CBF53933C9E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__583.uasset'
+[2025.05.26-17.05.45:031][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__381
+[2025.05.26-17.05.45:032][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__3815FAA685342FEA516C09C6CA355F726F0.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__381.uasset'
+[2025.05.26-17.05.45:032][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__580
+[2025.05.26-17.05.45:032][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__580678B28DF47E95AC601C2ADBE3DECF429.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__580.uasset'
+[2025.05.26-17.05.45:034][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__574
+[2025.05.26-17.05.45:034][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__574D233A6314C4214052C56408DFE2D9E19.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__574.uasset'
+[2025.05.26-17.05.45:035][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__401
+[2025.05.26-17.05.45:035][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__4013AC41F994FB3D7EE9FD676A2C336D5EB.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__401.uasset'
+[2025.05.26-17.05.45:035][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__577
+[2025.05.26-17.05.45:036][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__577F78F1DB94A55C19117A0AB94CB5BD5C2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__577.uasset'
+[2025.05.26-17.05.45:036][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__585
+[2025.05.26-17.05.45:036][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__585E20E7D16468D98A3F2DCC49D2856086D.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__585.uasset'
+[2025.05.26-17.05.45:037][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__570
+[2025.05.26-17.05.45:037][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__5708E9C4CD14BB51029C67D539BD34C79A4.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__570.uasset'
+[2025.05.26-17.05.45:038][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__584
+[2025.05.26-17.05.45:038][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__584A42D4F884BFA72ADAB65AFB65B546CBF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__584.uasset'
+[2025.05.26-17.05.45:039][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__576
+[2025.05.26-17.05.45:039][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__576F2C8430A4E1A0CC5C6DB2EAA6A49030C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__576.uasset'
+[2025.05.26-17.05.45:040][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Materials/Material__575
+[2025.05.26-17.05.45:040][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Material__575584BDDD84E27E54D0AD9C0B0F44E65CF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Materials/Material__575.uasset'
+[2025.05.26-17.05.45:048][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/ApartmentWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:048][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ApartmentWindow_low_DefaultMater4289A0B746B41EBBC7914D905238FA74.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/ApartmentWindow_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:062][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/Columns_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:062][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Columns_low_DefaultMaterial_BaseE0EAF9984CF13FB0A7FA77B0863B9FEF.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/Columns_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:072][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/DarkMetallic_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:073][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DarkMetallic_low_DefaultMaterialF93CEB3B49A27478F91395B332E496B0.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/DarkMetallic_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:083][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/Doors_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:083][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Doors_low_DefaultMaterial_BaseCoFA7FC73C45593EAF4B9044A43D90D517.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/Doors_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:092][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/DrainPipe_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:093][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DrainPipe_low_DefaultMaterial_BaC8AA35F347FD6A4CA96064AFEBF46114.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/DrainPipe_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:128][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/DutchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:128][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchBuilding_low_DefaultMateria8AF278C24D91C5D442BE5AA7E72B0789.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/DutchBuilding_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:162][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/DutchShop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:162][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/DutchShop_low_DefaultMaterial_Ba24FE2CF34D88E5F143492F9097C50AD3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/DutchShop_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:192][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/Fences_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:192][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Fences_low_DefaultMaterial_BaseC27A05A7040C24EE22E94DA9C4B95F7ED.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/Fences_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:201][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/Flag_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:201][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Flag_low_DefaultMaterial_BaseCol82C9EFE348811CEC87983B9DF659C7C2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/Flag_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:210][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/FrenchBalcony_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:210][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBalcony_low_DefaultMateriaFC4AFE0A4B6972F41CB91F86867BBCB3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/FrenchBalcony_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:245][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/FrenchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:245][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateriF05BBFE5446C412FB3701BAF47963789.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/FrenchBuilding_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:276][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1
+[2025.05.26-17.05.45:276][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchBuilding_low_DefaultMateriF73903504B435933A754898697D64CCA.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1.uasset'
+[2025.05.26-17.05.45:284][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/FrenchTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:285][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchTopper_low_DefaultMaterial27A192CE4607CEBD25D45F9CC71E3DB3.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/FrenchTopper_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:296][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/FrenchWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:296][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/FrenchWindow_low_DefaultMaterial1718FEA4490D2962113F85BF8D8A5E58.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/FrenchWindow_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:306][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/GermanColumn_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:306][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanColumn_low_DefaultMaterial90368CEB481B84035605E2BBE4995596.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/GermanColumn_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:339][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/GermanRoof_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:339][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoof_low_DefaultMaterial_BEFD774B9401994EC33FD43B579B20815.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/GermanRoof_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:369][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/GermanRoom_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:369][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanRoom_low_DefaultMaterial_B5B4D21854B41C874120C9E8CE0E9E4FB.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/GermanRoom_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:377][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/GermanTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:377][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/GermanTopper_low_DefaultMaterialAF83A1CC4E5335C5F1BC679DA9A8F10E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/GermanTopper_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:388][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/PublicFurniture_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:388][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/PublicFurniture_low_DefaultMaterAF9C6E294DEB17CA09059CBE982CAF4C.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/PublicFurniture_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:432][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/SeaBoard_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:432][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/SeaBoard_low_DefaultMaterial_Bas6A063D8D4330A5E50F1D96B99149BC85.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/SeaBoard_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:440][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/ShopWindows_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:441][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/ShopWindows_low_DefaultMaterial_391CF35741517F212D886EBB9D1DE384.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/ShopWindows_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:453][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/TrafficLight_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:453][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrafficLight_low_DefaultMaterialFAA1B91245E4EB1F5D71C28AA1D56471.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/TrafficLight_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:482][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/TramStop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:482][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TramStop_low_DefaultMaterial_Bas85543E534D2953E8AAE3A0B5658D5088.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/TramStop_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:532][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/TrimSheet1_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:532][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrimSheet1_low_DefaultMaterial_B941F0B0545A03A4C696C28A4ACCF40E7.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/TrimSheet1_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:567][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/TrimSheet2_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:567][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/TrimSheet2_low_DefaultMaterial_BAEA2ED6F475DD944DE66159C20602CCC.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/TrimSheet2_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:579][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/WallAssets_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:579][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WallAssets_low_DefaultMaterial_BCBABA1DC4F59F78D0FE787B5C1065AD2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/WallAssets_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:589][ 60]LogSavePackage: Moving output files for package: /Game/Optimised/Textures/WindowObjects_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:589][ 60]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/WindowObjects_low_DefaultMateriaE0FE9030427FB34CE0491DBBD3C642C2.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Optimised/Textures/WindowObjects_low_DefaultMaterial_BaseColor.uasset'
+[2025.05.26-17.05.45:596][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 679 ms (total: 26.0 sec)
+[2025.05.26-17.05.45:614][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-17.05.45:619][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-17.05.45:621][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.05.26-17.05.45:640][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__389.Material__389
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__569.Material__569
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__578.Material__578
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__588.Material__588
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__587.Material__587
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__581.Material__581
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__572.Material__572
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__582.Material__582
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__579.Material__579
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__573.Material__573
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__589.Material__589
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__380.Material__380
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__586.Material__586
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__571.Material__571
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__566.Material__566
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__565.Material__565
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__583.Material__583
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__381.Material__381
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__580.Material__580
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__574.Material__574
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__401.Material__401
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__577.Material__577
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__585.Material__585
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__570.Material__570
+[2025.05.26-17.05.45:640][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__584.Material__584
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__576.Material__576
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Optimised/Materials/Material__575.Material__575
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/ApartmentWindow_low_DefaultMaterial_BaseColor.ApartmentWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Columns_low_DefaultMaterial_BaseColor.Columns_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/DarkMetallic_low_DefaultMaterial_BaseColor.DarkMetallic_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Doors_low_DefaultMaterial_BaseColor.Doors_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/DrainPipe_low_DefaultMaterial_BaseColor.DrainPipe_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/DutchBuilding_low_DefaultMaterial_BaseColor.DutchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/DutchShop_low_DefaultMaterial_BaseColor.DutchShop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Fences_low_DefaultMaterial_BaseColor.Fences_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Flag_low_DefaultMaterial_BaseColor.Flag_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/FrenchBalcony_low_DefaultMaterial_BaseColor.FrenchBalcony_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/FrenchBuilding_low_DefaultMaterial_BaseColor.FrenchBuilding_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1.FrenchBuilding_low_DefaultMaterial_BaseColor_ncl1_1
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/FrenchTopper_low_DefaultMaterial_BaseColor.FrenchTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/FrenchWindow_low_DefaultMaterial_BaseColor.FrenchWindow_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/GermanColumn_low_DefaultMaterial_BaseColor.GermanColumn_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/GermanRoof_low_DefaultMaterial_BaseColor.GermanRoof_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/GermanRoom_low_DefaultMaterial_BaseColor.GermanRoom_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/GermanTopper_low_DefaultMaterial_BaseColor.GermanTopper_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/PublicFurniture_low_DefaultMaterial_BaseColor.PublicFurniture_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/SeaBoard_low_DefaultMaterial_BaseColor.SeaBoard_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/ShopWindows_low_DefaultMaterial_BaseColor.ShopWindows_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/TrafficLight_low_DefaultMaterial_BaseColor.TrafficLight_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/TramStop_low_DefaultMaterial_BaseColor.TramStop_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/TrimSheet1_low_DefaultMaterial_BaseColor.TrimSheet1_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/TrimSheet2_low_DefaultMaterial_BaseColor.TrimSheet2_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/WallAssets_low_DefaultMaterial_BaseColor.WallAssets_low_DefaultMaterial_BaseColor
+[2025.05.26-17.05.45:641][ 60]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/WindowObjects_low_DefaultMaterial_BaseColor.WindowObjects_low_DefaultMaterial_BaseColor
+[2025.05.26-17.06.27:846][107]LogDerivedDataCache: C:/Users/s4205606/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5801 files in 7607 folders with total size 358 MiB.
