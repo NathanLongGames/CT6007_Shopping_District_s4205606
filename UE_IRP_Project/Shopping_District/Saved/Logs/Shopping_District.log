@@ -9093,3 +9093,70 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.26-14.08.11:469][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms (total: 17.0 sec)
 [2025.05.26-14.08.11:471][385]AssetCheck: New page: Asset Save: Unoptimised_Shopping
 [2025.05.26-14.08.11:471][385]LogContentValidation: Display: Validating /Script/Engine.World /Game/Unoptimised_Shopping.Unoptimised_Shopping
+[2025.05.26-14.10.07:676][712]Cmd: TRANSACTION UNDO
+[2025.05.26-14.10.07:676][712]LogEditorTransaction: Undo Move Elements
+[2025.05.26-14.10.08:114][720]Cmd: TRANSACTION UNDO
+[2025.05.26-14.10.08:114][720]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.26-14.10.21:923][811]LogViewport: Scene viewport resized to 2742x1065, mode Windowed.
+[2025.05.26-14.10.21:963][812]LogViewport: Scene viewport resized to 2742x935, mode Windowed.
+[2025.05.26-14.10.22:002][813]LogViewport: Scene viewport resized to 2742x823, mode Windowed.
+[2025.05.26-14.10.22:026][814]LogViewport: Scene viewport resized to 2742x745, mode Windowed.
+[2025.05.26-14.10.22:051][815]LogViewport: Scene viewport resized to 2742x688, mode Windowed.
+[2025.05.26-14.10.22:091][816]LogViewport: Scene viewport resized to 2742x676, mode Windowed.
+[2025.05.26-14.10.22:132][817]LogViewport: Scene viewport resized to 2742x675, mode Windowed.
+[2025.05.26-14.10.22:168][818]LogViewport: Scene viewport resized to 2742x669, mode Windowed.
+[2025.05.26-14.10.22:185][819]LogViewport: Scene viewport resized to 2742x663, mode Windowed.
+[2025.05.26-14.10.22:224][820]LogViewport: Scene viewport resized to 2742x661, mode Windowed.
+[2025.05.26-14.10.22:258][821]LogViewport: Scene viewport resized to 2742x660, mode Windowed.
+[2025.05.26-14.10.22:294][822]LogViewport: Scene viewport resized to 2742x646, mode Windowed.
+[2025.05.26-14.10.22:317][823]LogViewport: Scene viewport resized to 2742x641, mode Windowed.
+[2025.05.26-14.10.22:355][824]LogViewport: Scene viewport resized to 2742x640, mode Windowed.
+[2025.05.26-14.10.22:390][825]LogViewport: Scene viewport resized to 2742x648, mode Windowed.
+[2025.05.26-14.10.22:413][826]LogViewport: Scene viewport resized to 2742x661, mode Windowed.
+[2025.05.26-14.10.22:437][827]LogViewport: Scene viewport resized to 2742x673, mode Windowed.
+[2025.05.26-14.10.22:459][828]LogViewport: Scene viewport resized to 2742x682, mode Windowed.
+[2025.05.26-14.10.22:482][829]LogViewport: Scene viewport resized to 2742x689, mode Windowed.
+[2025.05.26-14.10.22:582][838]LogViewport: Scene viewport resized to 2742x693, mode Windowed.
+[2025.05.26-14.10.22:616][839]LogViewport: Scene viewport resized to 2742x698, mode Windowed.
+[2025.05.26-14.10.22:638][840]LogViewport: Scene viewport resized to 2742x701, mode Windowed.
+[2025.05.26-14.10.22:663][841]LogViewport: Scene viewport resized to 2742x707, mode Windowed.
+[2025.05.26-14.10.22:684][842]LogViewport: Scene viewport resized to 2742x712, mode Windowed.
+[2025.05.26-14.10.22:707][843]LogViewport: Scene viewport resized to 2742x713, mode Windowed.
+[2025.05.26-14.10.32:926][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanSideWalls.UnionStreet__UnOp__GermanSideWalls
+[2025.05.26-14.10.32:926][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanSideWalls.UnionStreet__UnOp__GermanSideWalls
+[2025.05.26-14.10.32:927][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanSideWalls.UnionStreet__UnOp__GermanSideWalls as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_720
+[2025.05.26-14.10.34:575][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanSideWalls.UnionStreet__UnOp__GermanSideWalls
+[2025.05.26-14.10.34:575][772]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanSideWalls.UnionStreet__UnOp__GermanSideWalls
+[2025.05.26-14.10.34:577][772]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanSideWalls.UnionStreet__UnOp__GermanSideWalls as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_721
+[2025.05.26-14.10.55:356][601]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-14.12.14:673][828]LogSlate: Took 0.005558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.26-14.12.41:214][407]LogEditorViewport: Clicking Background
+[2025.05.26-14.12.55:681][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-14.12.55:769][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.26-14.12.55:821][885]LogSavePackage: Moving output files for package: /Game/Unoptimised_Shopping
+[2025.05.26-14.12.55:821][885]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Unoptimised_Shopping7B42945E4C62F566C73622A3AB4B826E.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised_Shopping.umap'
+[2025.05.26-14.12.55:828][885]LogFileHelpers: Saving map 'Unoptimised_Shopping' took 0.086
+[2025.05.26-14.12.55:833][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 17.2 sec)
+[2025.05.26-14.12.55:835][885]AssetCheck: New page: Asset Save: Unoptimised_Shopping
+[2025.05.26-14.12.55:835][885]LogContentValidation: Display: Validating /Script/Engine.World /Game/Unoptimised_Shopping.Unoptimised_Shopping
+[2025.05.26-14.13.11:876][515]Cmd: MODE SCALEGRID=0
+[2025.05.26-14.13.30:514][357]Cmd: TRANSACTION UNDO
+[2025.05.26-14.13.30:514][357]LogEditorTransaction: Undo Move Elements
+[2025.05.26-14.13.44:283][700]Cmd: EDIT COPY
+[2025.05.26-14.13.44:528][724]Cmd: EDIT PASTE
+[2025.05.26-14.14.23:117][541]LogViewport: Scene viewport resized to 2742x719, mode Windowed.
+[2025.05.26-14.14.23:154][542]LogViewport: Scene viewport resized to 2742x736, mode Windowed.
+[2025.05.26-14.14.23:174][543]LogViewport: Scene viewport resized to 2742x747, mode Windowed.
+[2025.05.26-14.14.23:198][544]LogViewport: Scene viewport resized to 2742x761, mode Windowed.
+[2025.05.26-14.14.23:222][545]LogViewport: Scene viewport resized to 2742x775, mode Windowed.
+[2025.05.26-14.14.23:246][546]LogViewport: Scene viewport resized to 2742x779, mode Windowed.
+[2025.05.26-14.14.23:271][547]LogViewport: Scene viewport resized to 2742x780, mode Windowed.
+[2025.05.26-14.14.23:294][548]LogViewport: Scene viewport resized to 2742x782, mode Windowed.
+[2025.05.26-14.14.24:394][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-14.14.24:475][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.26-14.14.24:528][655]LogSavePackage: Moving output files for package: /Game/Unoptimised_Shopping
+[2025.05.26-14.14.24:528][655]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Unoptimised_ShoppingBF5767044AA596DEE934C0A4DF7F8F52.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised_Shopping.umap'
+[2025.05.26-14.14.24:535][655]LogFileHelpers: Saving map 'Unoptimised_Shopping' took 0.089
+[2025.05.26-14.14.24:540][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 17.3 sec)
+[2025.05.26-14.14.24:542][655]AssetCheck: New page: Asset Save: Unoptimised_Shopping
+[2025.05.26-14.14.24:542][655]LogContentValidation: Display: Validating /Script/Engine.World /Game/Unoptimised_Shopping.Unoptimised_Shopping
