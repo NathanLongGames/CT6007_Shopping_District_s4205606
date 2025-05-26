@@ -4258,3 +4258,83 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.26-12.41.45:466][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 8.04 sec)
 [2025.05.26-12.41.45:468][796]AssetCheck: New page: Asset Save: Unoptimised_Shopping
 [2025.05.26-12.41.45:468][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/Unoptimised_Shopping.Unoptimised_Shopping
+[2025.05.26-12.42.45:910][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanRoofRail_low.UnionStreet__UnOp__GermanRoofRail_low
+[2025.05.26-12.42.45:910][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanRoofRail_low.UnionStreet__UnOp__GermanRoofRail_low
+[2025.05.26-12.42.45:911][500]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanRoofRail_low.UnionStreet__UnOp__GermanRoofRail_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_529
+[2025.05.26-12.42.46:299][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanRoofRail_low.UnionStreet__UnOp__GermanRoofRail_low
+[2025.05.26-12.42.46:299][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanRoofRail_low.UnionStreet__UnOp__GermanRoofRail_low
+[2025.05.26-12.42.46:300][544]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanRoofRail_low.UnionStreet__UnOp__GermanRoofRail_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_530
+[2025.05.26-12.44.02:947][653]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.44.33:497][756]Cmd: EDIT COPY
+[2025.05.26-12.44.33:792][789]Cmd: EDIT PASTE
+[2025.05.26-12.44.40:846][535]Cmd: EDIT COPY
+[2025.05.26-12.44.41:311][587]Cmd: EDIT PASTE
+[2025.05.26-12.44.56:535][129]Cmd: DELETE
+[2025.05.26-12.44.56:535][129]Cmd: ACTOR DELETE
+[2025.05.26-12.44.56:541][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.26-12.44.56:549][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.05.26-12.44.56:551][129]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.05.26-12.45.13:750][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanShopWindows_low.UnionStreet__UnOp__GermanShopWindows_low
+[2025.05.26-12.45.13:750][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanShopWindows_low.UnionStreet__UnOp__GermanShopWindows_low
+[2025.05.26-12.45.13:750][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanShopWindows_low.UnionStreet__UnOp__GermanShopWindows_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_534
+[2025.05.26-12.45.15:149][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanShopWindows_low.UnionStreet__UnOp__GermanShopWindows_low
+[2025.05.26-12.45.15:149][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanShopWindows_low.UnionStreet__UnOp__GermanShopWindows_low
+[2025.05.26-12.45.15:150][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanShopWindows_low.UnionStreet__UnOp__GermanShopWindows_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_535
+[2025.05.26-12.45.32:706][605]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.45.55:494][732]Cmd: TRANSACTION UNDO
+[2025.05.26-12.45.55:494][732]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.26-12.47.24:539][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchShopWindows_low.UnionStreet__UnOp__FrenchShopWindows_low
+[2025.05.26-12.47.24:539][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchShopWindows_low.UnionStreet__UnOp__FrenchShopWindows_low
+[2025.05.26-12.47.24:540][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchShopWindows_low.UnionStreet__UnOp__FrenchShopWindows_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_536
+[2025.05.26-12.47.29:218][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchShopWindows_low.UnionStreet__UnOp__FrenchShopWindows_low
+[2025.05.26-12.47.29:218][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchShopWindows_low.UnionStreet__UnOp__FrenchShopWindows_low
+[2025.05.26-12.47.29:219][866]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchShopWindows_low.UnionStreet__UnOp__FrenchShopWindows_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_537
+[2025.05.26-12.47.33:107][219]Cmd: TRANSACTION UNDO
+[2025.05.26-12.47.33:108][219]LogEditorTransaction: Undo Move Elements
+[2025.05.26-12.47.42:647][107]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.48.22:550][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchShopWindowPane_low.UnionStreet__UnOp__DutchShopWindowPane_low
+[2025.05.26-12.48.22:551][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchShopWindowPane_low.UnionStreet__UnOp__DutchShopWindowPane_low
+[2025.05.26-12.48.22:551][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchShopWindowPane_low.UnionStreet__UnOp__DutchShopWindowPane_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_539
+[2025.05.26-12.48.26:677][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchShopWindowPane_low.UnionStreet__UnOp__DutchShopWindowPane_low
+[2025.05.26-12.48.26:677][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchShopWindowPane_low.UnionStreet__UnOp__DutchShopWindowPane_low
+[2025.05.26-12.48.26:678][429]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchShopWindowPane_low.UnionStreet__UnOp__DutchShopWindowPane_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_540
+[2025.05.26-12.48.45:942][327]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.49.50:606][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.50:606][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.50:606][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_541
+[2025.05.26-12.49.51:618][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.51:618][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.51:619][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_542
+[2025.05.26-12.49.52:083][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.52:083][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.52:083][810]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_543
+[2025.05.26-12.49.52:648][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.52:648][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low
+[2025.05.26-12.49.52:650][873]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__FrenchDoor_low.UnionStreet__UnOp__FrenchDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_544
+[2025.05.26-12.50.10:232][598]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.50.52:578][525]LogEditorViewport: Clicking Background
+[2025.05.26-12.50.56:253][888]LogEditorViewport: Clicking Background
+[2025.05.26-12.51.11:548][327]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanDoor_low.UnionStreet__UnOp__GermanDoor_low
+[2025.05.26-12.51.11:548][327]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanDoor_low.UnionStreet__UnOp__GermanDoor_low
+[2025.05.26-12.51.11:549][327]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanDoor_low.UnionStreet__UnOp__GermanDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_545
+[2025.05.26-12.51.14:035][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanDoor_low.UnionStreet__UnOp__GermanDoor_low
+[2025.05.26-12.51.14:035][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanDoor_low.UnionStreet__UnOp__GermanDoor_low
+[2025.05.26-12.51.14:036][622]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__GermanDoor_low.UnionStreet__UnOp__GermanDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_546
+[2025.05.26-12.51.31:983][318]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.52.23:056][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchDoor_low.UnionStreet__UnOp__DutchDoor_low
+[2025.05.26-12.52.23:056][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchDoor_low.UnionStreet__UnOp__DutchDoor_low
+[2025.05.26-12.52.23:057][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchDoor_low.UnionStreet__UnOp__DutchDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_547
+[2025.05.26-12.52.23:555][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchDoor_low.UnionStreet__UnOp__DutchDoor_low
+[2025.05.26-12.52.23:555][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchDoor_low.UnionStreet__UnOp__DutchDoor_low
+[2025.05.26-12.52.23:556][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/Unoptimised/UnionStreet__UnOp__DutchDoor_low.UnionStreet__UnOp__DutchDoor_low as actor: StaticMeshActor /Game/Unoptimised_Shopping.Unoptimised_Shopping:PersistentLevel.StaticMeshActor_548
+[2025.05.26-12.52.38:722][813]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.26-12.52.44:634][362]Cmd: TRANSACTION UNDO
+[2025.05.26-12.52.44:634][362]LogEditorTransaction: Undo Move Elements
+[2025.05.26-12.53.54:483][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-12.53.54:564][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.05.26-12.53.54:601][227]LogSavePackage: Moving output files for package: /Game/Unoptimised_Shopping
+[2025.05.26-12.53.54:601][227]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/Unoptimised_Shopping6A8DD7254B36A6418C1732A781BB2321.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/Unoptimised_Shopping.umap'
+[2025.05.26-12.53.54:608][227]LogFileHelpers: Saving map 'Unoptimised_Shopping' took 0.071
+[2025.05.26-12.53.54:613][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 8.17 sec)
+[2025.05.26-12.53.54:614][227]AssetCheck: New page: Asset Save: Unoptimised_Shopping
+[2025.05.26-12.53.54:614][227]LogContentValidation: Display: Validating /Script/Engine.World /Game/Unoptimised_Shopping.Unoptimised_Shopping
