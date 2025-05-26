@@ -3475,3 +3475,491 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.26-18.27.40:541][ 67]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Emissive/PublicFurniture_low_DefaultMaterial_Emissive.PublicFurniture_low_DefaultMaterial_Emissive
 [2025.05.26-18.27.40:541][ 67]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Emissive/TrafficLight_low_DefaultMaterial_Emissive.TrafficLight_low_DefaultMaterial_Emissive
 [2025.05.26-18.27.40:541][ 67]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Optimised/Textures/Emissive/TramStop_low_DefaultMaterial_Emissive.TramStop_low_DefaultMaterial_Emissive
+[2025.05.26-18.32.55:177][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1712.519653
+[2025.05.26-18.32.56:173][ 57]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-18.32.56:173][ 57]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1713.185059, Update Interval: 328.781403
+[2025.05.26-18.39.22:266][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2099.611328
+[2025.05.26-18.39.23:268][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-18.39.23:268][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2100.278809, Update Interval: 329.960632
+[2025.05.26-18.42.47:160][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.42.47:164][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.42.47:164][829]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:42:47)
+[2025.05.26-18.42.47:168][829]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.26-18.42.47:168][829]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.26-18.42.47:168][829]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.42.47:170][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002445s)
+[2025.05.26-18.42.47:170][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.002482s)
+[2025.05.26-18.42.47:173][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.05.26-18.42.47:173][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.42.47:174][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.42.47:174][829]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.42.47:174][829]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2025.05.26-18.42.47:174][829]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.42.47:174][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.42.47:174][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.42.47:175][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.42.47:175][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.42.47:175][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.42.47:176][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.42.47:187][829]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.42.47:187][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.42.47:187][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.42.47:187][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.42.47:188][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.26-18.42.47:188][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.26-18.42.47:188][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.26-18.42.47:188][829]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.26-18.42.47:188][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.26-18.42.47:188][829]LogAudio: Display: Audio Device (ID: 2) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.42.47:188][829]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.26-18.42.47:191][829]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.42.47:201][829]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.42.47
+[2025.05.26-18.42.47:201][829]LogWorld: Bringing up level for play took: 0.009762
+[2025.05.26-18.42.47:203][829]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.05.26-18.42.47:208][829]PIE: Server logged in
+[2025.05.26-18.42.47:208][829]PIE: Play in editor total start time 0.044 seconds.
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: ================================================
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Total job queries 6,391, among them cache hits 2,042 (31.95%)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Tracking 4,299 distinct input hashes that result in 2,817 distinct outputs (65.53%)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: RAM used: 84.06 MiB of 3.20 GiB budget. Usage: 2.57%
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Shaders Compiled: 4,146
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Jobs assigned 4,148, completed 4,146 (99.95%)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Average time worker was idle: 28.93 s
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Time job spent in pending queue: average 22.10 s, longest 55.84 s
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Job execution time: average 2.20 s, max 9.44 s
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Job life time (pending + execution): average 24.31 s, max 59.08
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Shader code size: average 39.261 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 91.40 s
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Jobs were issued in 945 batches (only local compilation was used), average 4.39 jobs/batch
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Average processing rate: 45.36 jobs/sec
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Total thread time: 1,043.257 s
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Total thread preprocess time: 75.473 s
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Percentage time preprocessing: 7.23%
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Effective parallelization: 11.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.50 sec, max 4.48 sec, min 2.43 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.47 sec, max 6.11 sec, min 1.18 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.23 sec, max 2.34 sec, min 0.63 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 0.97 sec, max 1.17 sec, min 0.83 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.42% of total time (compiled  134 times, average 0.97 sec, max 1.17 sec, min 0.83 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.93% of total time (compiled   96 times, average 0.54 sec, max 0.86 sec, min 0.36 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.14% of total time (compiled   96 times, average 0.45 sec, max 0.67 sec, min 0.11 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 3.88% of total time (compiled   33 times, average 1.23 sec, max 2.34 sec, min 0.63 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.73% of total time (compiled  128 times, average 0.30 sec, max 0.54 sec, min 0.11 sec)
+[2025.05.26-18.42.48:341][922]LogShaderCompilers: Display: ================================================
+[2025.05.26-18.42.57:928][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.42.57:928][806]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.42.57:928][806]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.42.57:929][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.42.57:931][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.42.57:932][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.42.57:934][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.42.57:935][806]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.26-18.42.57:935][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.26-18.42.57:936][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.26-18.42.57:941][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.26-18.42.57:992][807]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.05.26-18.43.03:770][275]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.43.03:773][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.43.03:773][275]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:43:03)
+[2025.05.26-18.43.03:797][275]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.43.03:799][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002044s)
+[2025.05.26-18.43.03:799][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.002077s)
+[2025.05.26-18.43.03:802][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-18.43.03:804][275]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.43.03:804][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.43.03:804][275]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.43.03:804][275]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2025.05.26-18.43.03:804][275]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.43.03:804][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.43.03:804][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.43.03:804][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.43.03:805][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.43.03:805][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.43.03:806][275]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.43.03:816][275]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.43.03:817][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.43.03:817][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.43.03:817][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.43.03:817][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.26-18.43.03:817][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.26-18.43.03:818][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.26-18.43.03:818][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.26-18.43.03:818][275]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.26-18.43.03:818][275]LogAudio: Display: Audio Device (ID: 3) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.43.03:818][275]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.26-18.43.03:820][275]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.43.03:828][275]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.43.03
+[2025.05.26-18.43.03:829][275]LogWorld: Bringing up level for play took: 0.009006
+[2025.05.26-18.43.03:830][275]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.05.26-18.43.03:832][275]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-871.671 Y=659.084 Z=1546.801] for [BP_ThirdPersonCharacter_C]
+[2025.05.26-18.43.03:832][275]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 107.749993 Roll 0.000000
+Translation: -871.670780 659.083790 1546.801185
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.26-18.43.03:833][275]PIE: Server logged in
+[2025.05.26-18.43.03:833][275]PIE: Play in editor total start time 0.061 seconds.
+[2025.05.26-18.43.08:158][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.43.08:158][764]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.43.08:159][764]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.43.08:159][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.43.08:162][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.43.08:163][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.43.08:165][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.43.08:166][764]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.26-18.43.08:166][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.26-18.43.08:167][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.26-18.43.08:172][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.05.26-18.43.08:214][765]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.05.26-18.43.15:687][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.43.15:691][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.43.15:691][428]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:43:15)
+[2025.05.26-18.43.15:718][428]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.43.15:720][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001911s)
+[2025.05.26-18.43.15:720][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.001942s)
+[2025.05.26-18.43.15:722][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.26-18.43.15:725][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.43.15:725][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.43.15:725][428]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.43.15:726][428]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2025.05.26-18.43.15:726][428]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.43.15:726][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.43.15:726][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.43.15:726][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.43.15:726][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.43.15:726][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.43.15:727][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.43.15:737][428]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.43.15:737][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.43.15:737][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.43.15:737][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.43.15:738][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.26-18.43.15:738][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.26-18.43.15:739][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.26-18.43.15:739][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.26-18.43.15:739][428]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.26-18.43.15:739][428]LogAudio: Display: Audio Device (ID: 4) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.43.15:739][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.26-18.43.15:741][428]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.43.15:749][428]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.43.15
+[2025.05.26-18.43.15:750][428]LogWorld: Bringing up level for play took: 0.008572
+[2025.05.26-18.43.15:751][428]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.05.26-18.43.15:753][428]PIE: Server logged in
+[2025.05.26-18.43.15:754][428]PIE: Play in editor total start time 0.063 seconds.
+[2025.05.26-18.43.20:138][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.43.20:138][830]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.43.20:138][830]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.43.20:139][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.43.20:142][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.43.20:143][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.43.20:145][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.43.20:145][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.26-18.43.20:145][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.26-18.43.20:148][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.26-18.43.20:154][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.05.26-18.43.20:212][832]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.05.26-18.43.25:295][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.43.25:299][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.43.25:299][238]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:43:25)
+[2025.05.26-18.43.25:299][238]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.43.25:301][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2025.05.26-18.43.25:301][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.001935s)
+[2025.05.26-18.43.25:303][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-18.43.25:305][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.43.25:305][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.43.25:306][238]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.43.25:306][238]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2025.05.26-18.43.25:306][238]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.43.25:306][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.43.25:306][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.43.25:306][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.43.25:306][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.43.25:306][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.43.25:308][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.43.25:317][238]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.43.25:317][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.43.25:317][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.43.25:317][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.43.25:318][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.26-18.43.25:318][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.26-18.43.25:319][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.26-18.43.25:319][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.26-18.43.25:319][238]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.26-18.43.25:319][238]LogAudio: Display: Audio Device (ID: 5) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.43.25:319][238]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.26-18.43.25:321][238]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.43.25:330][238]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.43.25
+[2025.05.26-18.43.25:330][238]LogWorld: Bringing up level for play took: 0.008969
+[2025.05.26-18.43.25:332][238]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.05.26-18.43.25:334][238]PIE: Server logged in
+[2025.05.26-18.43.25:335][238]PIE: Play in editor total start time 0.036 seconds.
+[2025.05.26-18.43.40:618][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.43.40:618][598]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.43.40:618][598]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.43.40:619][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.43.40:621][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.43.40:622][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.43.40:625][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.43.40:625][598]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.26-18.43.40:625][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.26-18.43.40:627][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.26-18.43.40:632][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.05.26-18.43.40:730][600]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.05.26-18.44.52:178][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.44.52:182][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.44.52:182][895]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:44:52)
+[2025.05.26-18.44.52:208][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.44.52:210][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002134s)
+[2025.05.26-18.44.52:210][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.002170s)
+[2025.05.26-18.44.52:213][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.26-18.44.52:216][895]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.44.52:216][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.44.52:217][895]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.44.52:217][895]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2025.05.26-18.44.52:217][895]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.44.52:217][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.44.52:217][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.44.52:217][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.44.52:217][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.44.52:217][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.44.52:219][895]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.44.52:229][895]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.44.52:229][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.44.52:229][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.44.52:229][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.44.52:230][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.26-18.44.52:230][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.05.26-18.44.52:231][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.26-18.44.52:231][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.26-18.44.52:231][895]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.26-18.44.52:231][895]LogAudio: Display: Audio Device (ID: 6) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.44.52:231][895]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.26-18.44.52:233][895]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.44.52:242][895]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.44.52
+[2025.05.26-18.44.52:242][895]LogWorld: Bringing up level for play took: 0.008611
+[2025.05.26-18.44.52:243][895]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.05.26-18.44.52:246][895]PIE: Server logged in
+[2025.05.26-18.44.52:247][895]PIE: Play in editor total start time 0.064 seconds.
+[2025.05.26-18.45.03:108][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.45.03:108][910]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.45.03:109][910]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.45.03:109][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.45.03:112][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.45.03:113][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.45.03:115][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.45.03:115][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.26-18.45.03:115][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.26-18.45.03:117][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.26-18.45.03:123][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.05.26-18.45.03:234][912]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.05.26-18.45.20:641][357]Cmd: TRANSACTION UNDO
+[2025.05.26-18.45.20:641][357]LogEditorTransaction: Undo Set Location
+[2025.05.26-18.45.21:764][416]Cmd: TRANSACTION UNDO
+[2025.05.26-18.45.21:765][416]LogEditorTransaction: Undo Set Location
+[2025.05.26-18.45.29:134][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2466.486328
+[2025.05.26-18.45.29:279][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-18.45.29:279][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2466.619873, Update Interval: 330.925629
+[2025.05.26-18.45.34:414][453]Cmd: TRANSACTION UNDO
+[2025.05.26-18.45.34:414][453]LogEditorTransaction: Undo Set Location
+[2025.05.26-18.45.34:855][462]Cmd: TRANSACTION UNDO
+[2025.05.26-18.45.34:855][462]LogEditorTransaction: Undo Set Location
+[2025.05.26-18.46.31:925][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.46.31:929][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.46.31:929][102]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:46:31)
+[2025.05.26-18.46.31:929][102]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.46.31:931][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002100s)
+[2025.05.26-18.46.31:931][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.002133s)
+[2025.05.26-18.46.31:934][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.05.26-18.46.31:937][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.46.31:937][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.46.31:937][102]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.46.31:937][102]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2025.05.26-18.46.31:937][102]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.46.31:937][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.46.31:937][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.46.31:938][102]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.46.31:938][102]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.46.31:938][102]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.46.31:940][102]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.46.31:950][102]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.46.31:951][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.46.31:951][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.46.31:951][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.46.31:951][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.26-18.46.31:951][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.26-18.46.31:952][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.26-18.46.31:952][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.26-18.46.31:952][102]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.26-18.46.31:952][102]LogAudio: Display: Audio Device (ID: 7) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.46.31:952][102]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.26-18.46.31:954][102]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.46.31:963][102]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.46.31
+[2025.05.26-18.46.31:964][102]LogWorld: Bringing up level for play took: 0.009194
+[2025.05.26-18.46.31:965][102]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.05.26-18.46.31:967][102]PIE: Server logged in
+[2025.05.26-18.46.31:968][102]PIE: Play in editor total start time 0.039 seconds.
+[2025.05.26-18.46.39:098][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.46.39:098][750]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.46.39:098][750]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.46.39:099][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.46.39:101][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.46.39:102][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.46.39:104][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.46.39:105][750]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.26-18.46.39:105][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.26-18.46.39:106][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.26-18.46.39:112][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.05.26-18.46.39:221][752]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.05.26-18.46.46:451][339]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.26-18.46.50:708][642]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Optimised/UnionStreet__Op_.UnionStreet__Op_
+[2025.05.26-18.46.50:724][642]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.46.50:724][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.46.50:730][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.26-18.46.51:052][642]LogViewport: Scene viewport resized to 1667x736, mode Windowed.
+[2025.05.26-18.47.02:090][107]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2025.05.26-18.47.02:534][107]LogStaticMesh: Display: Building static mesh StaticMesh...
+[2025.05.26-18.47.02:551][107]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StaticMesh) ...
+[2025.05.26-18.47.02:966][107]LogStaticMesh: Built static mesh [0.43s] /Game/StaticMesh.StaticMesh
+[2025.05.26-18.47.03:153][107]LogStaticMesh: Warning: StaticMesh has degenerate tangent bases which will result in incorrect shading. Consider enabling Recompute Tangents in the mesh's Build Settings. 
+[2025.05.26-18.47.03:153][107]LogStaticMesh: Warning: StaticMesh has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.05.26-18.47.17:613][774]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2025.05.26-18.47.23:655][106]LogSlate: Window 'UnionStreet__Op_' being destroyed
+[2025.05.26-18.47.23:659][106]LogSlate: Window 'UnionStreet__Op_' being destroyed
+[2025.05.26-18.47.23:671][106]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.47.23:671][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.47.24:791][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh.StaticMesh
+[2025.05.26-18.47.24:791][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh.StaticMesh
+[2025.05.26-18.47.24:791][181]LogActorFactory: Actor Factory spawned StaticMesh /Game/StaticMesh.StaticMesh as actor: StaticMeshActor /Game/Optimised_Shopping.Optimised_Shopping:PersistentLevel.StaticMeshActor_2
+[2025.05.26-18.47.29:450][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh.StaticMesh
+[2025.05.26-18.47.29:450][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StaticMesh.StaticMesh
+[2025.05.26-18.47.29:450][536]LogActorFactory: Actor Factory spawned StaticMesh /Game/StaticMesh.StaticMesh as actor: StaticMeshActor /Game/Optimised_Shopping.Optimised_Shopping:PersistentLevel.StaticMeshActor_3
+[2025.05.26-18.47.30:757][630]Cmd: DELETE
+[2025.05.26-18.47.30:757][630]Cmd: ACTOR DELETE
+[2025.05.26-18.47.30:759][630]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.26-18.47.30:770][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.05.26-18.47.30:772][630]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.05.26-18.47.43:211][583]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StaticMesh.StaticMesh
+[2025.05.26-18.47.43:247][583]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.47.43:247][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.47.43:552][583]LogViewport: Scene viewport resized to 1638x772, mode Windowed.
+[2025.05.26-18.47.53:579][102]LogViewport: Scene viewport resized to 2525x1262, mode Windowed.
+[2025.05.26-18.48.55:968][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-18.48.56:041][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMesh" FILE="D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/StaticMesh.uasset" SILENT=true
+[2025.05.26-18.48.56:065][ 43]LogSavePackage: Moving output files for package: /Game/StaticMesh
+[2025.05.26-18.48.56:066][ 43]LogSavePackage: Moving 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Saved/StaticMeshEC42BFAF421769B53BEE9EA254CC1A22.tmp' to 'D:/s4205606/CT6007_Shopping_District_s4205606/UE_IRP_Project/Shopping_District/Content/StaticMesh.uasset'
+[2025.05.26-18.48.56:073][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 12.3 sec)
+[2025.05.26-18.48.56:073][ 43]AssetCheck: New page: Asset Save: StaticMesh
+[2025.05.26-18.48.56:073][ 43]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StaticMesh.StaticMesh
+[2025.05.26-18.48.56:908][ 84]LogSlate: Window 'StaticMesh' being destroyed
+[2025.05.26-18.48.56:957][ 84]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.48.56:957][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.48.59:603][302]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-18.48.59:606][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-18.48.59:606][302]PIE: New page: PIE session: Optimised_Shopping (26 May 2025, 20:48:59)
+[2025.05.26-18.48.59:638][302]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.48.59:639][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001887s)
+[2025.05.26-18.48.59:639][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Optimised_Shopping.Optimised_Shopping to /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping (0.001920s)
+[2025.05.26-18.48.59:643][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.26-18.48.59:646][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-18.48.59:646][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-18.48.59:646][302]LogAIModule: Creating AISystem for world Optimised_Shopping
+[2025.05.26-18.48.59:646][302]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2025.05.26-18.48.59:646][302]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-18.48.59:646][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-18.48.59:646][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-18.48.59:647][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-18.48.59:647][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-18.48.59:647][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-18.48.59:648][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-18.48.59:659][302]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.05.26-18.48.59:660][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-18.48.59:660][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-18.48.59:660][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-18.48.59:660][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.26-18.48.59:660][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.05.26-18.48.59:661][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.26-18.48.59:661][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.26-18.48.59:661][302]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.26-18.48.59:661][302]LogAudio: Display: Audio Device (ID: 8) registered with world 'Optimised_Shopping'.
+[2025.05.26-18.48.59:661][302]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.26-18.48.59:663][302]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-18.48.59:664][302]LogWorld: Bringing World /Game/UEDPIE_0_Optimised_Shopping.Optimised_Shopping up for play (max tick rate 0) at 2025.05.26-19.48.59
+[2025.05.26-18.48.59:664][302]LogWorld: Bringing up level for play took: 0.000672
+[2025.05.26-18.48.59:665][302]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.05.26-18.48.59:669][302]PIE: Server logged in
+[2025.05.26-18.48.59:669][302]PIE: Play in editor total start time 0.063 seconds.
+[2025.05.26-18.49.14:578][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.49.14:578][651]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Optimised_Shopping
+[2025.05.26-18.49.14:578][651]LogWorld: UWorld::CleanupWorld for Optimised_Shopping, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-18.49.14:578][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.49.14:582][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-18.49.14:583][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-18.49.14:585][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-18.49.14:586][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.26-18.49.14:586][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.26-18.49.14:587][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.26-18.49.14:591][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-18.49.14:592][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.05.26-18.49.14:692][653]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.05.26-18.49.34:490][297]Cmd: TRANSACTION UNDO
+[2025.05.26-18.49.34:490][297]LogEditorTransaction: Undo Scale Elements
+[2025.05.26-18.49.46:424][283]Cmd: TRANSACTION UNDO
+[2025.05.26-18.49.46:424][283]LogEditorTransaction: Undo Scale Elements
+[2025.05.26-18.49.54:451][921]Cmd: TRANSACTION UNDO
+[2025.05.26-18.49.54:451][921]LogEditorTransaction: Undo Scale Elements
+[2025.05.26-18.50.06:300][861]Cmd: TRANSACTION UNDO
+[2025.05.26-18.50.06:300][861]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.26-18.50.06:546][864]Cmd: TRANSACTION UNDO
+[2025.05.26-18.50.06:546][864]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.26-18.50.06:765][866]Cmd: TRANSACTION UNDO
+[2025.05.26-18.50.06:766][866]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.26-18.50.06:929][868]Cmd: TRANSACTION UNDO
+[2025.05.26-18.50.06:929][868]LogEditorTransaction: Undo Scale Elements
+[2025.05.26-18.50.07:124][882]Cmd: TRANSACTION UNDO
+[2025.05.26-18.50.07:124][882]LogEditorTransaction: Undo Clicking on Elements
